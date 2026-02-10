@@ -1,0 +1,27 @@
+{
+  "data":[
+    {
+      "image": "../../assets/vertebra.png",
+  "canvas": { "width": 600, "height": 600 },
+  "zones": [
+    {
+      "id": "Transverse Process",
+      "x": 4,
+      "y": 147.33331298828125,
+      "label": "Transverse Process"
+    },
+    {
+      "id": "Spinous Process",
+      "x": 323.3333435058594,
+      "y": 134,
+      "label": "Spinous Process"
+    },
+    {
+      "id": "Vertebra forame",
+      "x": 404.0000305175781,
+      "y": 408,
+      "label": "Vertebra forame"
+    }
+  ]}
+  ]
+}

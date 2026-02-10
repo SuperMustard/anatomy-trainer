@@ -1,0 +1,23 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 24px;
+    padding: 20px;
+}
+
+.canvas-section {
+    flex: 1;
+    /* 占据一部分空间，或根据图片比例固定宽度 */
+    min-width: 300px;
+    /* 防止图片被压缩得太小 */
+}
+
+.options-section {
+    flex: 1;
+    /* 占据剩余空间 */
+    display: flex;
+    flex-direction: column;
+    /* 选项内部依然垂直排列 */
+    gap: 16px;
+}
