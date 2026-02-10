@@ -2,7 +2,7 @@
   "questions":[
     {
   "type": "drag-label",
-  "image": "../../assets/vertebra.png",
+  "image": "/assets/vertebra.png",
   "canvas": { "width": 600, "height": 600 },
   "zones": [
     {
@@ -32,7 +32,7 @@
   ]},
   {
   "type": "drag-label",
-  "image": "../../assets/Spinal.png",
+  "image": "/assets/Spinal.png",
   "canvas": { "width": 600, "height": 600 },
   "zones": [
     {
@@ -69,7 +69,7 @@
   },
   {
   "type": "drag-label",
-  "image": "../../assets/Thorax.png",
+  "image": "/assets/Thorax.png",
   "canvas": { "width": 600, "height": 600 },
   "zones": [
     {
@@ -124,7 +124,7 @@
   },
   {
   "type": "drag-label",
-  "image": "../../assets/Sternum.png",
+  "image": "/assets/Sternum.png",
   "canvas": { "width": 600, "height": 600 },
   "zones": [
     {
@@ -167,7 +167,7 @@
   },
   {
   "type": "drag-label",
-  "image": "../../assets/Scapula.png",
+  "image": "/assets/Scapula.png",
   "canvas": { "width": 600, "height": 600 },
   "zones": [
     {
@@ -224,7 +224,7 @@
   "id": "muscle-q-001",
   "type": "multiple-choice",
   "title": "Superior_Trapezius",
-  "image": "../../assets/Superior_Trapezius.png",
+  "image": "/assets/Superior_Trapezius.png",
   "question": "Select all correct options",
   "options": {
     "name": [
@@ -276,7 +276,7 @@
   "id": "muscle-q-002",
   "type": "multiple-choice",
   "title": "Middle_trapezius",
-  "image": "../../assets/Middle_trapezius.png",
+  "image": "/assets/Middle_Trapezius.png",
   "question": "Select all correct options",
   "options": {
     "name": [
@@ -318,7 +318,7 @@
   "id": "muscle-q-003",
   "type": "multiple-choice",
   "title": "Inferior_trapezius",
-  "image": "../../assets/Inferior_trapezius.png",
+  "image": "/assets/Inferior_Trapezius.png",
   "question": "Select all correct options",
   "options": {
     "name": [
