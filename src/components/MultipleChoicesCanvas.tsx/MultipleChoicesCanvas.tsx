@@ -2,6 +2,7 @@ import type { Question, MultipleChoiceQuestion } from "../../types/anatomy";
 import BaseImageCanvas from "../BaseImageCanvas/BaseImageCanvas";
 import { useState } from "react";
 import styles from "./MultipleChoicesCanvas.module.scss";
+import { shuffleArray } from "../../utils/utils";
 
 export default function MultipleChoicesCanvas({
   question,
@@ -20,6 +21,11 @@ export default function MultipleChoicesCanvas({
     actions: [] as string[],
   });
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const [shuffledOptions] = useState({
+    origin: shuffleArray(multipleChoicesQuestion?.options?.origin),
+    insertion: shuffleArray(multipleChoicesQuestion?.options?.insertion),
+    actions: shuffleArray(multipleChoicesQuestion?.options?.actions),
+  });
 
   // 2. 文本输入处理
   const handleTextChange = (val: string) => {
@@ -78,7 +84,8 @@ export default function MultipleChoicesCanvas({
     title: string,
     key: "origin" | "insertion" | "actions",
   ) => {
-    const options = multipleChoicesQuestion?.options?.[key];
+    //const options = multipleChoicesQuestion?.options?.[key];
+    const options = shuffledOptions[key];
     const answer = multipleChoicesQuestion?.answer?.[key];
     //const isCorrect = JSON.stringify(selected[key].sort()) === JSON.stringify(answer.sort());
 
