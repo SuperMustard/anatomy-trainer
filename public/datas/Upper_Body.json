@@ -1,0 +1,58 @@
+{
+  "canvas": {
+    "width": 600,
+    "height": 600
+  },
+  "type": "drag-label",
+  "image": "../../assets/Upper_Body.png",
+  "zones": [
+    {
+      "id": "Clavicle",
+      "x": 144.66668701171875,
+      "y": 19.33331298828125,
+      "label": "Clavicle"
+    },
+    {
+      "id": "Scapula",
+      "x": 142.66668701171875,
+      "y": 55.33331298828125,
+      "label": "Scapula"
+    },
+    {
+      "id": "Humerus",
+      "x": 146,
+      "y": 149.33331298828125,
+      "label": "Humerus"
+    },
+    {
+      "id": "Radius",
+      "x": 129.33334350585938,
+      "y": 322.66668701171875,
+      "label": "Radius"
+    },
+    {
+      "id": "Ulna",
+      "x": 124.66668701171875,
+      "y": 358.66668701171875,
+      "label": "Ulna"
+    },
+    {
+      "id": "Carpus",
+      "x": 114,
+      "y": 453.99993896484375,
+      "label": "Carpus"
+    },
+    {
+      "id": "Metacarpus",
+      "x": 139.33331298828125,
+      "y": 492.0001220703125,
+      "label": "Metacarpus"
+    },
+    {
+      "id": "Phalanges",
+      "x": 139.33334350585938,
+      "y": 531.3333740234375,
+      "label": "Phalanges"
+    }
+  ]
+}

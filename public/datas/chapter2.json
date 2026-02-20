@@ -1,717 +1,340 @@
 {
   "questions":[
-    {
-  "type": "drag-label",
-  "image": "/assets/vertebra.png",
-  "canvas": { "width": 600, "height": 600 },
-  "zones": [
-    {
-      "id": "Transverse Process",
-      "x": 12,
-      "y": 130.66668701171875,
-      "label": "Transverse Process"
-    },
-    {
-      "id": "Spinous Process",
-      "x": 319.33331298828125,
-      "y": 116.66668701171875,
-      "label": "Spinous Process"
-    },
-    {
-      "id": "Vertebral Foramen",
-      "x": 413.3333740234375,
-      "y": 388.6666259765625,
-      "label": "Vertebral Foramen"
-    },
-    {
-      "id": "body",
-      "x": 406,
-      "y": 468.66668701171875,
-      "label": "body"
-    }
-  ]},
   {
-  "type": "drag-label",
-  "image": "/assets/Spinal.png",
-  "canvas": { "width": 600, "height": 600 },
+      "type": "drag-label",
+  "image": "/assets/Shoulder.png",
   "zones": [
     {
-      "id": "Thoracic (Kyphosis)",
-      "x": 323.9999694824219,
-      "y": 216.66668701171875,
-      "label": "Thoracic (Kyphosis)"
+      "id": "Supraglenoid tubercle",
+      "x": 334,
+      "y": 34.6666259765625,
+      "label": "Supraglenoid tubercle"
     },
     {
-      "id": "Cervical (Lordosis)",
-      "x": 321.99993896484375,
+      "id": "Glenoid fossa",
+      "x": 332.0000305175781,
+      "y": 185.3333740234375,
+      "label": "Glenoid fossa"
+    },
+    {
+      "id": "Infraglenoid tubercle",
+      "x": 302,
+      "y": 292.6666259765625,
+      "label": "Infraglenoid tubercle"
+    }
+  ]
+  },
+  {
+    "type": "drag-label",
+  "image": "/assets/Humerus.png",
+  "zones": [
+    {
+      "id": "Greater tubercle",
+      "x": 65.33331298828125,
+      "y": 67.33331298828125,
+      "label": "Greater tubercle"
+    },
+    {
+      "id": "Head",
+      "x": 253.3333740234375,
+      "y": 64.66668701171875,
+      "label": "Head"
+    },
+    {
+      "id": "Anatomical neck",
+      "x": 267.3333740234375,
       "y": 98,
-      "label": "Cervical (Lordosis)"
+      "label": "Anatomical neck"
     },
     {
-      "id": "Lumbar (Lordosis)",
-      "x": 326.666748046875,
-      "y": 393.99993896484375,
-      "label": "Lumbar (Lordosis)"
+      "id": "Surgical neck",
+      "x": 271.33331298828125,
+      "y": 136,
+      "label": "Surgical neck"
     },
     {
-      "id": "Sacral (Kyphosis)",
-      "x": 324.66668701171875,
-      "y": 482.66656494140625,
-      "label": "Sacral (Kyphosis)"
+      "id": "Greater tubercle",
+      "x": 464,
+      "y": 55.33331298828125,
+      "label": "Greater tubercle"
     },
     {
-      "id": "Coccyx (Lordosis)",
-      "x": 321.99993896484375,
-      "y": 539.3333740234375,
-      "label": "Coccyx (Lordosis)"
+      "id": "intertubercular groove",
+      "x": 465.3333740234375,
+      "y": 94,
+      "label": "intertubercular groove"
+    },
+    {
+      "id": "lesser tubercle",
+      "x": 462.66668701171875,
+      "y": 140,
+      "label": "lesser tubercle"
+    },
+    {
+      "id": "deltoid tuberosity",
+      "x": 464.66668701171875,
+      "y": 249.33331298828125,
+      "label": "deltoid tuberosity"
+    },
+    {
+      "id": "Capitulum",
+      "x": 466,
+      "y": 512.6666259765625,
+      "label": "Capitulum"
+    },
+    {
+      "id": "Coronoid fossa",
+      "x": 242,
+      "y": 433.33331298828125,
+      "label": "Coronoid fossa"
+    },
+    {
+      "id": "medial epicondyle",
+      "x": 250.66668701171875,
+      "y": 482,
+      "label": "medial epicondyle"
+    },
+    {
+      "id": "trochlea",
+      "x": 243.33334350585938,
+      "y": 525.3333740234375,
+      "label": "trochlea"
+    },
+    {
+      "id": "olecranon fossa",
+      "x": 41.333343505859375,
+      "y": 432,
+      "label": "olecranon fossa"
+    },
+    {
+      "id": "lateral epicondyle",
+      "x": 26,
+      "y": 483.3333740234375,
+      "label": "lateral epicondyle"
+    }
+  ]
+  },
+  {
+    "type": "drag-label",
+  "image": "/assets/Elbow_Junction.png",
+  "zones": [
+    {
+      "id": "Humerus",
+      "x": 449.3333740234375,
+      "y": 42,
+      "label": "Humerus"
+    },
+    {
+      "id": "Coronoid fossa",
+      "x": 457.33331298828125,
+      "y": 148,
+      "label": "Coronoid fossa"
+    },
+    {
+      "id": "Radial fossa",
+      "x": 89.33334350585938,
+      "y": 144.66668701171875,
+      "label": "Radial fossa"
+    },
+    {
+      "id": "Capitellum",
+      "x": 89.33334350585938,
+      "y": 239.33331298828125,
+      "label": "Capitellum"
+    },
+    {
+      "id": "Lateral epicondyle",
+      "x": 90,
+      "y": 192.6666259765625,
+      "label": "Lateral epicondyle"
+    },
+    {
+      "id": "Medial epicondyle",
+      "x": 459.3333435058594,
+      "y": 194,
+      "label": "Medial epicondyle"
+    },
+    {
+      "id": "Trochlea",
+      "x": 458,
+      "y": 240.6666259765625,
+      "label": "Trochlea"
+    },
+    {
+      "id": "Trochlear notch",
+      "x": 455.3333740234375,
+      "y": 314,
+      "label": "Trochlear notch"
+    },
+    {
+      "id": "Coronoid process",
+      "x": 455.33331298828125,
+      "y": 362.66668701171875,
+      "label": "Coronoid process"
+    },
+    {
+      "id": "Radial notch",
+      "x": 458.0000305175781,
+      "y": 400.66668701171875,
+      "label": "Radial notch"
+    },
+    {
+      "id": "Ulna",
+      "x": 456,
+      "y": 444,
+      "label": "Ulna"
+    },
+    {
+      "id": "Head and neck of radius",
+      "x": 48.666656494140625,
+      "y": 374,
+      "label": "Head and neck of radius"
+    },
+    {
+      "id": "Radial tuberosity",
+      "x": 88.66665649414062,
+      "y": 436.66668701171875,
+      "label": "Radial tuberosity"
+    },
+    {
+      "id": "Radius",
+      "x": 92.66665649414062,
+      "y": 481.33331298828125,
+      "label": "Radius"
     }
   ]
   },
   {
   "type": "drag-label",
-  "image": "/assets/Thorax.png",
-  "canvas": { "width": 600, "height": 600 },
+  "image": "/assets/Forearm.png",
   "zones": [
     {
-      "id": "Jugular notch",
-      "x": 5.33331298828125,
-      "y": 124,
-      "label": "Jugular notch"
+      "id": "Olecranon process",
+      "x": 244,
+      "y": 62,
+      "label": "Olecranon process"
     },
     {
-      "id": "Sternum",
-      "x": 1.33331298828125,
-      "y": 242.66668701171875,
-      "label": "Sternum"
+      "id": "Trochlear notch",
+      "x": 249.3333740234375,
+      "y": 108.66668701171875,
+      "label": "Trochlear notch"
     },
     {
-      "id": "Xiphoid Process",
-      "x": -0.66668701171875,
-      "y": 329.3333740234375,
-      "label": "Xiphoid Process"
+      "id": "Coronoid process",
+      "x": 251.33331298828125,
+      "y": 145.3333740234375,
+      "label": "Coronoid process"
     },
     {
-      "id": "clavicular notch",
-      "x": 414.66668701171875,
-      "y": 124,
-      "label": "clavicular notch"
+      "id": "Interosseous membrane",
+      "x": 249.33334350585938,
+      "y": 237.33331298828125,
+      "label": "Interosseous membrane"
     },
+    {
+      "id": "Ulnar",
+      "x": 230,
+      "y": 286.66668701171875,
+      "label": "Ulnar"
+    },
+    {
+      "id": "Ulnar notch",
+      "x": 254.66668701171875,
+      "y": 372,
+      "label": "Ulnar notch"
+    },
+    {
+      "id": "Head of ulna",
+      "x": 256.66668701171875,
+      "y": 405.3333740234375,
+      "label": "Head of ulna"
+    },
+    {
+      "id": "Styloid process of ulna",
+      "x": 266.0000305175781,
+      "y": 439.33331298828125,
+      "label": "Styloid process of ulna"
+    },
+    {
+      "id": "Styloid process of radius",
+      "x": 482.0000305175781,
+      "y": 474,
+      "label": "Styloid process of radius"
+    },
+    {
+      "id": "Head of radius",
+      "x": 470,
+      "y": 102,
+      "label": "Head of radius"
+    },
+    {
+      "id": "Neck of radius",
+      "x": 470,
+      "y": 155.33331298828125,
+      "label": "Neck of radius"
+    },
+    {
+      "id": "Radius",
+      "x": 470.6666564941406,
+      "y": 361.3333740234375,
+      "label": "Radius"
+    }
+  ]
+  },{
+    "type": "drag-label",
+  "image": "/assets/Upper_Body.png",
+  "zones": [
     {
       "id": "Clavicle",
-      "x": 418,
-      "y": 190.6666259765625,
+      "x": 144.66668701171875,
+      "y": 19.33331298828125,
       "label": "Clavicle"
     },
     {
       "id": "Scapula",
-      "x": 418,
-      "y": 246.66668701171875,
+      "x": 142.66668701171875,
+      "y": 55.33331298828125,
       "label": "Scapula"
     },
     {
-      "id": "Costal cargilages",
-      "x": 422.66668701171875,
-      "y": 329.3333740234375,
-      "label": "Costal cargilages"
-    },
-    {
-      "id": "Intercostal space",
-      "x": 408.66668701171875,
-      "y": 400,
-      "label": "Intercostal space"
-    }
-  ]
-  },
-  {
-  "type": "drag-label",
-  "image": "/assets/Sternum.png",
-  "canvas": { "width": 600, "height": 600 },
-  "zones": [
-    {
-      "id": "Clavicular notch",
-      "x": 115.333343505859375,
-      "y": 55.3333740234375,
-      "label": "Clavicular notch"
-    },
-    {
-      "id": "Jugular notch",
-      "x": 392.66668701171875,
-      "y": 37.33331298828125,
-      "label": "Jugular notch"
-    },
-    {
-      "id": "Manubrium",
-      "x": 144.6666259765625,
+      "id": "Humerus",
+      "x": 146,
       "y": 149.33331298828125,
-      "label": "Manubrium"
+      "label": "Humerus"
     },
     {
-      "id": "Sternal angle",
-      "x": 134.6666259765625,
-      "y": 199.33331298828125,
-      "label": "Sternal angle"
+      "id": "Radius",
+      "x": 129.33334350585938,
+      "y": 322.66668701171875,
+      "label": "Radius"
     },
     {
-      "id": "body",
-      "x": 140.666656494140625,
-      "y": 327.33331298828125,
-      "label": "body"
+      "id": "Ulna",
+      "x": 124.66668701171875,
+      "y": 358.66668701171875,
+      "label": "Ulna"
     },
     {
-      "id": "Xiphoid Process",
-      "x": 146.666656494140625,
-      "y": 501.33331298828125,
-      "label": "Xiphoid Process"
+      "id": "Carpus",
+      "x": 114,
+      "y": 453.99993896484375,
+      "label": "Carpus"
+    },
+    {
+      "id": "Metacarpus",
+      "x": 139.33331298828125,
+      "y": 492.0001220703125,
+      "label": "Metacarpus"
+    },
+    {
+      "id": "Phalanges",
+      "x": 139.33334350585938,
+      "y": 531.3333740234375,
+      "label": "Phalanges"
     }
   ]
-  },
-  {
-  "type": "drag-label",
-  "image": "/assets/Scapula.png",
-  "canvas": { "width": 600, "height": 600 },
-  "zones": [
-    {
-      "id": "Acromion",
-      "x": 374.66668701171875,
-      "y": 108.66668701171875,
-      "label": "Acromion"
-    },
-    {
-      "id": "Coracoid process",
-      "x": -12.66668701171875,
-      "y": 260.6666259765625,
-      "label": "Coracoid process"
-    },
-    {
-      "id": "Superior angle",
-      "x": 260.66665649414062,
-      "y": 128,
-      "label": "Superior angle"
-    },
-    {
-      "id": "Lateral border",
-      "x": 40.000030517578125,
-      "y": 396,
-      "label": "Lateral border"
-    },
-    {
-      "id": "Medial border",
-      "x": 283.33331298828125,
-      "y": 361.3333740234375,
-      "label": "Medial border"
-    },
-    {
-      "id": "Inferior angle",
-      "x": 281.33331298828125,
-      "y": 425.33331298828125,
-      "label": "Inferior angle"
-    },
-    {
-      "id": "Lateral angle",
-      "x": 505.3333740234375,
-      "y": 144,
-      "label": "Lateral angle"
-    },
-    {
-      "id": "Spine of scapula",
-      "x": 243.33331298828125,
-      "y": 238.6666259765625,
-      "label": "Spine of scapula"
-    }
-  ]
-  },
-  {
-  "id": "muscle-q-001",
-  "type": "multiple-choice",
-  "title": "Superior_Trapezius",
-  "image": "/assets/Superior_Trapezius.png",
-  "question": "Select all correct options",
-  "options": {
-    "name": [
-      "Superior Trapezius",
-      "Triceps brachii",
-      "Deltoid",
-      "Brachialis"
-    ],
-    "origin": [
-      "Scapula (coracoid process and supraglenoid tubercle)",
-      "Humerus",
-      "Occiput",
-      "Vertebrae C1 to C6 (nuchal ligament)",
-      "Vertebra C7 Spinous process",
-      "Clavicle"
-    ],
-    "insertion": [
-      "Olecranon of ulna",
-      "Deltoid tuberosity of humerus",
-      "Clavicle: 1/3 lateral end"
-    ],
-    "actions": [
-      "Bilateral: extension of the neck",
-      "unilateral: Ipsilateral lateral flexion of the neck",
-      "unilateral: Elevation of the scapula",
-      "unilateral: Contralateral rotation of the neck",
-      "Elbow flexion",
-      "Forearm supination",
-      "Elbow extension",
-      "Shoulder abduction"
-    ]
-  },
-  "answer": {
-    "name": ["Superior Trapezius"],
-    "origin": [
-      "Occiput",
-      "Vertebrae C1 to C6 (nuchal ligament)",
-      "Vertebra C7 Spinous process"
-    ],
-    "insertion": ["Clavicle: 1/3 lateral end"],
-    "actions": [
-      "Bilateral: extension of the neck",
-      "unilateral: Ipsilateral lateral flexion of the neck",
-      "unilateral: Elevation of the scapula",
-      "unilateral: Contralateral rotation of the neck"
-    ]}
-  },
-  {
-  "id": "muscle-q-002",
-  "type": "multiple-choice",
-  "title": "Middle_trapezius",
-  "image": "/assets/Middle_Trapezius.png",
-  "question": "Select all correct options",
-  "options": {
-    "name": [
-      "Superior Trapezius",
-      "Middle trapezius",
-      "Deltoid",
-      "Brachialis"
-    ],
-    "origin": [
-      "Scapula (coracoid process and supraglenoid tubercle)",
-      "Humerus",
-      "T1 to T5 (spinous process)",
-      "Clavicle"
-    ],
-    "insertion": [
-      "Acromion", "Lateral end of spin of scapula", "Superior border",
-      "Clavicle: 1/3 lateral end",
-      "Deltoid tuberosity of humerus",
-      "Coronoid process of ulna"
-    ],
-    "actions": [
-      "Elbow flexion",
-      "Forearm supination",
-      "Elbow extension",
-      "Scapula move inward, adduction"
-    ]
-  },
-  "answer": {
-    "name": ["Middle trapezius"],
-    "origin": [
-      "T1 to T5 (spinous process)"
-    ],
-    "insertion": ["Acromion", "Lateral end of spin of scapula", "Superior border"],
-    "actions": [
-      "Scapula move inward, adduction"
-    ]}
-  },
-  {
-  "id": "muscle-q-003",
-  "type": "multiple-choice",
-  "title": "Inferior_trapezius",
-  "image": "/assets/Inferior_Trapezius.png",
-  "question": "Select all correct options",
-  "options": {
-    "name": [
-      "Superior Trapezius",
-      "Inferior trapezius",
-      "Deltoid",
-      "Middle trapezius"
-    ],
-    "origin": [
-      "Scapula (coracoid process and supraglenoid tubercle)",
-      "Clavicle: 1/3 lateral end",
-      "Ulna",
-      "T6 to T12 (spinous process)"
-    ],
-    "insertion": [
-      "Acromion",
-      "Radial tuberosity",
-      "Olecranon of ulna",
-      "Deltoid tuberosity of humerus",
-      "Scapula: medial part of the spine of scapular", "superior border"
-    ],
-    "actions": [
-      "Elbow flexion",
-      "Scapula move Depression",
-      "unilateral: Elevation of the scapula",
-      "unilateral: Contralateral rotation of the neck"
-    ]
-  },
-  "answer": {
-    "name": ["Inferior trapezius"],
-    "origin": [
-      "T6 to T12 (spinous process)"
-    ],
-    "insertion": ["Scapula: medial part of the spine of scapular", "superior border"],
-    "actions": [
-      "Scapula move Depression"
-    ]}
-  },
-  {
-  "id": "muscle-q-004",
-  "type": "multiple-choice",
-  "title": "Anterior_Deltoid",
-  "image": "/assets/Anterior_Deltoid.png",
-  "question": "Select all correct options",
-  "options": {
-    "name": [
-      "Anterior Deltoid",
-      "Posterior Deltoid",
-      "Biceps brachii",
-      "Pectoralis major"
-    ],
-    "origin": [
-      "Clavicle: 1/3 lateral end",
-      "Scapula: spine",
-      "Coracoid process of scapula",
-      "Sternum and costal cartilages"
-    ],
-    "insertion": [
-      "Humerus: deltoid tuberosity",
-      "Greater tubercle of humerus",
-      "Radial tuberosity",
-      "Medial epicondyle of humerus"
-    ],
-    "actions": [
-      "Flexion of the shoulder",
-      "Horizontal adduction/flexion of the shoulder",
-      "Medial/internal rotation of the shoulder",
-      "Extension of the shoulder",
-      "Abduction of the shoulder",
-      "Elbow flexion",
-      "Forearm supination"
-    ]
-  },
-  "answer": {
-    "name": [
-      "Anterior Deltoid"
-    ],
-    "origin": [
-      "Clavicle: 1/3 lateral end"
-    ],
-    "insertion": [
-      "Humerus: deltoid tuberosity"
-    ],
-    "actions": [
-      "Flexion of the shoulder",
-      "Horizontal adduction/flexion of the shoulder",
-      "Medial/internal rotation of the shoulder"
-    ]
   }
-},
-{
-  "id": "muscle-q-005",
-  "type": "multiple-choice",
-  "title": "Middle_Deltoid",
-  "image": "/assets/Middle_Deltoid.png",
-  "question": "Select all correct options",
-  "options": {
-    "name": [
-      "Middle Deltoid",
-      "Anterior Deltoid",
-      "Posterior Deltoid",
-      "Supraspinatus"
-    ],
-    "origin": [
-      "Scapula: Acromion",
-      "Clavicle: 1/3 lateral end",
-      "Scapula: spine",
-      "Coracoid process of scapula"
-    ],
-    "insertion": [
-      "Humerus: deltoid tuberosity",
-      "Greater tubercle of humerus",
-      "Lesser tubercle of humerus",
-      "Radial tuberosity"
-    ],
-    "actions": [
-      "Abduction of the shoulder",
-      "Flexion of the shoulder",
-      "Extension of the shoulder",
-      "Medial/internal rotation of the shoulder",
-      "Lateral/external rotation of the shoulder",
-      "Elbow flexion"
-    ]
-  },
-  "answer": {
-    "name": [
-      "Middle Deltoid"
-    ],
-    "origin": [
-      "Scapula: Acromion"
-    ],
-    "insertion": [
-      "Humerus: deltoid tuberosity"
-    ],
-    "actions": [
-      "Abduction of the shoulder"
-    ]
-  }
-},
-{
-  "id": "muscle-q-006",
-  "type": "multiple-choice",
-  "title": "Posterior_Deltoid",
-  "image": "/assets/Posterior_Deltoid.png",
-  "question": "Select all correct options",
-  "options": {
-    "name": [
-      "Posterior Deltoid",
-      "Middle Deltoid",
-      "Latissimus dorsi",
-      "Teres major"
-    ],
-    "origin": [
-      "Scapula: inferior border of the spine",
-      "Scapula: Acromion",
-      "Clavicle: 1/3 lateral end",
-      "Vertebrae T6 to L5 (spinous processes)"
-    ],
-    "insertion": [
-      "Humerus: deltoid tuberosity",
-      "Greater tubercle of humerus",
-      "Lesser tubercle of humerus",
-      "Medial lip of intertubercular groove"
-    ],
-    "actions": [
-      "Extension of the shoulder",
-      "Horizontal abduction/extension of the shoulder",
-      "Lateral/external rotation of the shoulder",
-      "Flexion of the shoulder",
-      "Abduction of the shoulder",
-      "Medial/internal rotation of the shoulder",
-      "Elbow flexion"
-    ]
-  },
-  "answer": {
-    "name": [
-      "Posterior Deltoid"
-    ],
-    "origin": [
-      "Scapula: inferior border of the spine"
-    ],
-    "insertion": [
-      "Humerus: deltoid tuberosity"
-    ],
-    "actions": [
-      "Extension of the shoulder",
-      "Horizontal abduction/extension of the shoulder",
-      "Lateral/external rotation of the shoulder"
-    ]
-  }
-},
-{
-  "id": "muscle-q-007",
-  "type": "multiple-choice",
-  "title": "Levator_Scapulae",
-  "image": "/assets/Levator_Scapulae.png",
-  "question": "Select all correct options",
-  "options": {
-    "name": [
-      "Levator Scapulae",
-      "Rhomboid minor",
-      "Upper trapezius",
-      "Serratus anterior"
-    ],
-    "origin": [
-      "C1 to C4 (transverse processes)",
-      "Vertebrae C5 to T1 (spinous processes)",
-      "Occiput",
-      "Scapula: medial border"
-    ],
-    "insertion": [
-      "Scapula: superior angle",
-      "Scapula: medial border",
-      "Clavicle: 1/3 lateral end",
-      "Humerus: deltoid tuberosity"
-    ],
-    "actions": [
-      "Unilateral: Elevation of the scapula",
-      "Unilateral: ipsilateral rotation of the neck",
-      "Unilateral: ipsilateral lateroflexion of the neck",
-      "Bilateral: Extension of the neck",
-      "Scapular protraction",
-      "Scapular depression",
-      "Shoulder abduction"
-    ]
-  },
-  "answer": {
-    "name": [
-      "Levator Scapulae"
-    ],
-    "origin": [
-      "C1 to C4 (transverse processes)"
-    ],
-    "insertion": [
-      "Scapula: superior angle"
-    ],
-    "actions": [
-      "Unilateral: Elevation of the scapula",
-      "Unilateral: ipsilateral rotation of the neck",
-      "Unilateral: ipsilateral lateroflexion of the neck",
-      "Bilateral: Extension of the neck"
-    ]
-  }
-},
-{
-  "id": "muscle-q-008",
-  "type": "multiple-choice",
-  "title": "Rhomboid_Minor",
-  "image": "/assets/Rhomboid_Minor.png",
-  "question": "Select all correct options",
-  "options": {
-    "name": [
-      "Rhomboid Minor",
-      "Rhomboid Major",
-      "Levator Scapulae",
-      "Middle Trapezius"
-    ],
-    "origin": [
-      "C7 to T1 spinous processes",
-      "C1 to C4 (transverse processes)",
-      "T2 to T5 spinous processes",
-      "Occiput and nuchal ligament"
-    ],
-    "insertion": [
-      "Base of scapular spine",
-      "Scapula: medial border",
-      "Scapula: superior angle",
-      "Clavicle: 1/3 lateral end"
-    ],
-    "actions": [
-      "Adduction of the scapula",
-      "Elevation of the scapula",
-      "Upward rotation of the scapula",
-      "Scapular protraction",
-      "Depression of the scapula",
-      "Shoulder abduction"
-    ]
-  },
-  "answer": {
-    "name": [
-      "Rhomboid Minor"
-    ],
-    "origin": [
-      "C7 to T1 spinous processes"
-    ],
-    "insertion": [
-      "Base of scapular spine"
-    ],
-    "actions": [
-      "Adduction of the scapula",
-      "Elevation of the scapula"
-    ]
-  }
-},
-{
-  "id": "muscle-q-007",
-  "type": "multiple-choice",
-  "title": "Rhomboid_Major",
-  "image": "/assets/Rhomboid_Major.png",
-  "question": "Select all correct options",
-  "options": {
-    "name": [
-      "Rhomboid Major",
-      "Rhomboid Minor",
-      "Levator Scapulae",
-      "Middle Trapezius"
-    ],
-    "origin": [
-      "T2 to T5 spinous processes",
-      "C7 to T1 spinous processes",
-      "C1 to C4 (transverse processes)",
-      "T6 to L5 spinous processes"
-    ],
-    "insertion": [
-      "Medial border under the base of the scapular spine",
-      "Base of scapular spine",
-      "Scapula: superior angle",
-      "Clavicle: 1/3 lateral end"
-    ],
-    "actions": [
-      "Adduction of the scapula",
-      "Elevation of the scapula",
-      "Upward rotation of the scapula",
-      "Scapular protraction",
-      "Depression of the scapula",
-      "Shoulder abduction"
-    ]
-  },
-  "answer": {
-    "name": [
-      "Rhomboid Major"
-    ],
-    "origin": [
-      "T2 to T5 spinous processes"
-    ],
-    "insertion": [
-      "Medial border under the base of the scapular spine"
-    ],
-    "actions": [
-      "Adduction of the scapula",
-      "Elevation of the scapula"
-    ]
-  }
-},
-{
-  "id": "muscle-q-0012",
-  "type": "multiple-choice",
-  "title": "Longissimus Thoracis",
-  "image": "/assets/Longissimus_Thoracis.png",
-  "question": "Select all correct options for Longissimus Thoracis",
-  "options": {
-    "name": [
-      "Longissimus Thoracis",
-      "Iliocostalis Lumborum",
-      "Spinalis Thoracis",
-      "Quadratus Lumborum"
-    ],
-    "origin": [
-      "Sacrum (thoracolumbar fascia)",
-      "Vertebrae L1 to L5 (transverse process)",
-      "Ribs 1 to 2",
-      "Iliac crest"
-    ],
-    "insertion": [
-      "Vertebrae T1 to T12 (transverse process)",
-      "Ribs 3 to 12",
-      "Mastoid process of temporal bone",
-      "Vertebrae C2 to C6"
-    ],
-    "actions": [
-      "Unilateral: Ipsilateral lateroflexion of the trunk",
-      "Bilateral: Extension of the trunk",
-      "Shoulder retraction",
-      "Hip flexion"
-    ]
-  },
-  "answer": {
-    "name": [
-      "Longissimus Thoracis"
-    ],
-    "origin": [
-      "Sacrum (thoracolumbar fascia)",
-      "Vertebrae L1 to L5 (transverse process)"
-    ],
-    "insertion": [
-      "Vertebrae T1 to T12 (transverse process)",
-      "Ribs 3 to 12"
-    ],
-    "actions": [
-      "Unilateral: Ipsilateral lateroflexion of the trunk",
-      "Bilateral: Extension of the trunk"
-    ]
-  }
-}
+
   ]
 }

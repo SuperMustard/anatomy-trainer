@@ -8,14 +8,32 @@
     cursor: grab;
     user-select: none;
 
+box-sizing: border-box; // 核心：确保 border 和 padding 不额外增加宽度
+    position: absolute;
+    width: 80px; // 统一固定宽度，不要只用 min-width
+    height: 32px; // 统一固定高度
+    display: flex; // 使用 flex 布局让内部元素横向排列
+    align-items: center;
+    padding: 0 6px; // 减少垂直 padding，靠高度控制
+    /* ...其他样式... */
+
+    .dragHandle {
+        position: absolute; // 脱离文档流，不占用宽度
+            left: -24px; // 挂在盒子左侧外面
+            width: 20px;
+            cursor: grab;
+            text-align: center;
+    }
+
     input {
-        border: none;
-        outline: none;
-        background: transparent;
-        width: 100%;
-        text-align: center;
-        font-size: 12px;
-        font-weight: 600;
+all: unset;
+    /* 清除所有浏览器默认样式 */
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 12px;
+    display: block;
+    /* 避免 inline 元素的行高问题 */
     }
 
     .dragHandle {

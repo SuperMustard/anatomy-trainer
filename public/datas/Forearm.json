@@ -1,0 +1,82 @@
+{
+  "canvas": {
+    "width": 600,
+    "height": 600
+  },
+  "type": "drag-label",
+  "image": "../../assets/Forearm.png",
+  "zones": [
+    {
+      "id": "Olecranon process",
+      "x": 244,
+      "y": 62,
+      "label": "Olecranon process"
+    },
+    {
+      "id": "Trochlear notch",
+      "x": 249.3333740234375,
+      "y": 108.66668701171875,
+      "label": "Trochlear notch"
+    },
+    {
+      "id": "Coronoid process",
+      "x": 251.33331298828125,
+      "y": 145.3333740234375,
+      "label": "Coronoid process"
+    },
+    {
+      "id": "Interosseous membrane",
+      "x": 249.33334350585938,
+      "y": 237.33331298828125,
+      "label": "Interosseous membrane"
+    },
+    {
+      "id": "Ulnar",
+      "x": 230,
+      "y": 286.66668701171875,
+      "label": "Ulnar"
+    },
+    {
+      "id": "Ulnar notch",
+      "x": 254.66668701171875,
+      "y": 372,
+      "label": "Ulnar notch"
+    },
+    {
+      "id": "Head of ulna",
+      "x": 256.66668701171875,
+      "y": 405.3333740234375,
+      "label": "Head of ulna"
+    },
+    {
+      "id": "Styloid process of ulna",
+      "x": 266.0000305175781,
+      "y": 439.33331298828125,
+      "label": "Styloid process of ulna"
+    },
+    {
+      "id": "Styloid process of radius",
+      "x": 482.0000305175781,
+      "y": 474,
+      "label": "Styloid process of radius"
+    },
+    {
+      "id": "Head of radius",
+      "x": 470,
+      "y": 102,
+      "label": "Head of radius"
+    },
+    {
+      "id": "Neck of radius",
+      "x": 470,
+      "y": 155.33331298828125,
+      "label": "Neck of radius"
+    },
+    {
+      "id": "Radius",
+      "x": 470.6666564941406,
+      "y": 361.3333740234375,
+      "label": "Radius"
+    }
+  ]
+}

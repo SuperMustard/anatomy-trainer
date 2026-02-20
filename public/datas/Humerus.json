@@ -1,0 +1,94 @@
+{
+  "canvas": {
+    "width": 600,
+    "height": 600
+  },
+  "type": "drag-label",
+  "image": "../../assets/Humerus.png",
+  "zones": [
+    {
+      "id": "Greater tubercle",
+      "x": 65.33331298828125,
+      "y": 67.33331298828125,
+      "label": "Greater tubercle"
+    },
+    {
+      "id": "Head",
+      "x": 253.3333740234375,
+      "y": 64.66668701171875,
+      "label": "Head"
+    },
+    {
+      "id": "Anatomical neck",
+      "x": 267.3333740234375,
+      "y": 98,
+      "label": "Anatomical neck"
+    },
+    {
+      "id": "Surgical neck",
+      "x": 271.33331298828125,
+      "y": 136,
+      "label": "Surgical neck"
+    },
+    {
+      "id": "Greater tubercle",
+      "x": 464,
+      "y": 55.33331298828125,
+      "label": "Greater tubercle"
+    },
+    {
+      "id": "intertubercular groove",
+      "x": 465.3333740234375,
+      "y": 94,
+      "label": "intertubercular groove"
+    },
+    {
+      "id": "lesser tubercle",
+      "x": 462.66668701171875,
+      "y": 140,
+      "label": "lesser tubercle"
+    },
+    {
+      "id": "deltoid tuberosity",
+      "x": 464.66668701171875,
+      "y": 249.33331298828125,
+      "label": "deltoid tuberosity"
+    },
+    {
+      "id": "Capitulum",
+      "x": 466,
+      "y": 512.6666259765625,
+      "label": "Capitulum"
+    },
+    {
+      "id": "Coronoid fossa",
+      "x": 242,
+      "y": 433.33331298828125,
+      "label": "Coronoid fossa"
+    },
+    {
+      "id": "medial epicondyle",
+      "x": 250.66668701171875,
+      "y": 482,
+      "label": "medial epicondyle"
+    },
+    {
+      "id": "trochlea",
+      "x": 243.33334350585938,
+      "y": 525.3333740234375,
+      "label": "trochlea"
+    },
+    {
+      "id": "olecranon fossa",
+      "x": 41.333343505859375,
+      "y": 432,
+      "label": "olecranon fossa"
+    },
+    {
+      "id": "lateral epicondyle",
+      "x": 26,
+      "y": 483.3333740234375,
+      "label": "lateral epicondyle"
+    }
+  ]
+}

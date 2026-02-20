@@ -30,6 +30,15 @@
     line-height: 28px;
     font-size: 12px;
     font-weight: 600;
+    box-sizing: border-box; // 必须一致
+        position: absolute;
+        width: 80px; // 与 .box 保持一致
+        height: 32px; // 与 .box 保持一致
+        display: flex;
+        align-items: center;
+        justify-content: center; // 让文字居中
+        padding: 0 6px;
+        line-height: 1; // 移除之前的 28px，改用 flex 居中
 }
 
 .nav {

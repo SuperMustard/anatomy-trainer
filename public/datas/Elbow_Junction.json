@@ -1,0 +1,94 @@
+{
+  "canvas": {
+    "width": 600,
+    "height": 600
+  },
+  "type": "drag-label",
+  "image": "../../assets/Elbow_Junction.png",
+  "zones": [
+    {
+      "id": "Humerus",
+      "x": 449.3333740234375,
+      "y": 42,
+      "label": "Humerus"
+    },
+    {
+      "id": "Coronoid fossa",
+      "x": 457.33331298828125,
+      "y": 148,
+      "label": "Coronoid fossa"
+    },
+    {
+      "id": "Radial fossa",
+      "x": 89.33334350585938,
+      "y": 144.66668701171875,
+      "label": "Radial fossa"
+    },
+    {
+      "id": "Capitellum",
+      "x": 89.33334350585938,
+      "y": 239.33331298828125,
+      "label": "Capitellum"
+    },
+    {
+      "id": "Lateral epicondyle",
+      "x": 90,
+      "y": 192.6666259765625,
+      "label": "Lateral epicondyle"
+    },
+    {
+      "id": "Medial epicondyle",
+      "x": 459.3333435058594,
+      "y": 194,
+      "label": "Medial epicondyle"
+    },
+    {
+      "id": "Trochlea",
+      "x": 458,
+      "y": 240.6666259765625,
+      "label": "Trochlea"
+    },
+    {
+      "id": "Trochlear notch",
+      "x": 455.3333740234375,
+      "y": 314,
+      "label": "Trochlear notch"
+    },
+    {
+      "id": "Coronoid process",
+      "x": 455.33331298828125,
+      "y": 362.66668701171875,
+      "label": "Coronoid process"
+    },
+    {
+      "id": "Radial notch",
+      "x": 458.0000305175781,
+      "y": 400.66668701171875,
+      "label": "Radial notch"
+    },
+    {
+      "id": "Ulna",
+      "x": 456,
+      "y": 444,
+      "label": "Ulna"
+    },
+    {
+      "id": "Head and neck of radius",
+      "x": 48.666656494140625,
+      "y": 374,
+      "label": "Head and neck of radius"
+    },
+    {
+      "id": "Radial tuberosity",
+      "x": 88.66665649414062,
+      "y": 436.66668701171875,
+      "label": "Radial tuberosity"
+    },
+    {
+      "id": "Radius",
+      "x": 92.66665649414062,
+      "y": 481.33331298828125,
+      "label": "Radius"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "canvas": {
+    "width": 600,
+    "height": 600
+  },
+  "type": "drag-label",
+  "image": "../../assets/Shoulder.png",
+  "zones": [
+    {
+      "id": "Supraglenoid tubercle",
+      "x": 334,
+      "y": 34.6666259765625,
+      "label": "Supraglenoid tubercle"
+    },
+    {
+      "id": "Glenoid fossa",
+      "x": 332.0000305175781,
+      "y": 185.3333740234375,
+      "label": "Glenoid fossa"
+    },
+    {
+      "id": "Infraglenoid tubercle",
+      "x": 302,
+      "y": 292.6666259765625,
+      "label": "Infraglenoid tubercle"
+    }
+  ]
+}
