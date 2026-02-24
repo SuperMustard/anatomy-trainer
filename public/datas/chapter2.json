@@ -334,7 +334,759 @@
       "label": "Phalanges"
     }
   ]
+  },
+  {
+  "id": "muscle-q-003",
+  "type": "multiple-choice",
+  "title": "Sternocleidomastoid",
+  "image": "/assets/Sternocleidomastoid.png",
+  "question": "Select all correct options for Sternocleidomastoid",
+  "options": {
+    "name": [
+      "Sternocleidomastoid",
+      "Scalene Muscles",
+      "Splenius Capitis",
+      "Platysma"
+    ],
+    "origin": [
+      "Lateral portion: clavicle (1/3 medial and superior)",
+      "Medial portion: manubrium (superior and lateral part)",
+      "C1-C4 Transverse processes",
+      "Scapular spine"
+    ],
+    "insertion": [
+      "Mastoid Process (anterior and lateral part)",
+      "Superior nuchal line (occiput)",
+      "Zygomatic bone",
+      "Mandible"
+    ],
+    "actions": [
+      "Unilateral: ipsilateral lateroflexion of the neck and the head",
+      "Unilateral: Contralateral rotation of the neck and head",
+      "Bilateral: flexion of the neck",
+      "Extension of the thoracic spine"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Sternocleidomastoid"
+    ],
+    "origin": [
+      "Lateral portion: clavicle (1/3 medial and superior)",
+      "Medial portion: manubrium (superior and lateral part)"
+    ],
+    "insertion": [
+      "Mastoid Process (anterior and lateral part)",
+      "Superior nuchal line (occiput)"
+    ],
+    "actions": [
+      "Unilateral: ipsilateral lateroflexion of the neck and the head",
+      "Unilateral: Contralateral rotation of the neck and head",
+      "Bilateral: flexion of the neck"
+    ]
   }
+},
+{
+  "id": "muscle-q-004",
+  "type": "multiple-choice",
+  "title": "Pectoralis major",
+  "image": "/assets/Pectoralis_major.png",
+  "question": "Select all correct options for Pectoralis major",
+  "options": {
+    "name": [
+      "Pectoralis major",
+      "Pectoralis minor",
+      "Serratus anterior",
+      "Subclavius"
+    ],
+    "origin": [
+      "Clavicle: medial",
+      "Sternum",
+      "Costal cartilage of the first 6 ribs",
+      "Coracoid process of scapula"
+    ],
+    "insertion": [
+      "Humerus: lateral lip of the intertubercular groove",
+      "Greater tubercle of humerus",
+      "Lesser tubercle of humerus"
+    ],
+    "actions": [
+      "Internal rotation of the shoulder",
+      "Horizontal adduction of the shoulder",
+      "Adduction of the shoulder",
+      "Flexion/extension of the shoulder",
+      "Scapular protraction"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Pectoralis major"
+    ],
+    "origin": [
+      "Clavicle: medial",
+      "Sternum",
+      "Costal cartilage of the first 6 ribs"
+    ],
+    "insertion": [
+      "Humerus: lateral lip of the intertubercular groove"
+    ],
+    "actions": [
+      "Internal rotation of the shoulder",
+      "Horizontal adduction of the shoulder",
+      "Adduction of the shoulder",
+      "Flexion/extension of the shoulder"
+    ]
+  }
+},
+{
+  "id": "muscle-q-005",
+  "type": "multiple-choice",
+  "title": "Rectus abdominis",
+  "image": "/assets/Rectus_Abdominis.png",
+  "question": "Select all correct options for Rectus abdominis",
+  "options": {
+    "name": [
+      "Rectus abdominis",
+      "Transversus abdominis",
+      "External oblique",
+      "Internal oblique"
+    ],
+    "origin": [
+      "Pubis: pubic crest",
+      "Iliac crest",
+      "Inguinal ligament",
+      "Thoracolumbar fascia"
+    ],
+    "insertion": [
+      "5,6,7 ribs (costal cartilage)",
+      "Sternum: xiphoid process",
+      "Linea alba",
+      "Pubic tubercle"
+    ],
+    "actions": [
+      "Flexion of the trunk",
+      "Organs protection",
+      "Force expiration",
+      "Lateral rotation of the trunk",
+      "Extension of the lumbar spine"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Rectus abdominis"
+    ],
+    "origin": [
+      "Pubis: pubic crest"
+    ],
+    "insertion": [
+      "5,6,7 ribs (costal cartilage)",
+      "Sternum: xiphoid process"
+    ],
+    "actions": [
+      "Flexion of the trunk",
+      "Organs protection",
+      "Force expiration"
+    ]
+  }
+},
+{
+  "id": "muscle-q-006",
+  "type": "multiple-choice",
+  "title": "External Oblique Abdominis",
+  "image": "/assets/External_Oblique_Abdominis.png",
+  "question": "Select all correct options for External Oblique Abdominis",
+  "options": {
+    "name": [
+      "External Oblique Abdominis",
+      "Internal Oblique Abdominis",
+      "Transversus Abdominis",
+      "Rectus Abdominis"
+    ],
+    "origin": [
+      "Ribs 5 to 12",
+      "Thoracolumbar fascia",
+      "Iliac crest (intermediate line)",
+      "Pubic crest"
+    ],
+    "insertion": [
+      "Anterior iliac crest (external lip)",
+      "Abdominal fascia",
+      "Inguinal ligament",
+      "Ribs 9 to 12",
+      "Linea alba"
+    ],
+    "actions": [
+      "Unilateral: contralateral rotation of the trunk",
+      "Unilateral: ipsilateral lateral flexion of the trunk",
+      "Bilateral: flexion of the trunk",
+      "Bilateral: forced expiration",
+      "Bilateral: extension of the spine"
+    ]
+  },
+  "answer": {
+    "name": [
+      "External Oblique Abdominis"
+    ],
+    "origin": [
+      "Ribs 5 to 12"
+    ],
+    "insertion": [
+      "Anterior iliac crest (external lip)",
+      "Abdominal fascia",
+      "Inguinal ligament"
+    ],
+    "actions": [
+      "Unilateral: contralateral rotation of the trunk",
+      "Unilateral: ipsilateral lateral flexion of the trunk",
+      "Bilateral: flexion of the trunk",
+      "Bilateral: forced expiration"
+    ]
+  }
+},
+{
+  "id": "muscle-q-007",
+  "type": "multiple-choice",
+  "title": "Internal Oblique Abdominis",
+  "image": "/assets/Internal_Oblique_Abdominis.png",
+  "question": "Select all correct options for Internal Oblique Abdominis",
+  "options": {
+    "name": [
+      "Internal Oblique Abdominis",
+      "External Oblique Abdominis",
+      "Transversus Abdominis",
+      "Quadratus Lumborum"
+    ],
+    "origin": [
+      "Iliac crest (intermediate lip)",
+      "Inguinal ligament",
+      "Thoracolumbar fascia",
+      "Ribs 5 to 12"
+    ],
+    "insertion": [
+      "Ribs: 9 to 12",
+      "Abdominal fascia",
+      "Linea alba",
+      "Pubic crest"
+    ],
+    "actions": [
+      "Unilateral: Ipsilateral rotation of the trunk",
+      "Unilateral: Ipsilateral lateroflexion of the trunk",
+      "Bilateral: Flexion of the trunk",
+      "Bilateral: Forced expiration",
+      "Unilateral: Contralateral rotation of the trunk"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Internal Oblique Abdominis"
+    ],
+    "origin": [
+      "Iliac crest (intermediate lip)",
+      "Inguinal ligament",
+      "Thoracolumbar fascia"
+    ],
+    "insertion": [
+      "Ribs: 9 to 12",
+      "Abdominal fascia"
+    ],
+    "actions": [
+      "Unilateral: Ipsilateral rotation of the trunk",
+      "Unilateral: Ipsilateral lateroflexion of the trunk",
+      "Bilateral: Flexion of the trunk",
+      "Bilateral: Forced expiration"
+    ]
+  }
+},
+{
+  "id": "muscle-q-008",
+  "type": "multiple-choice",
+  "title": "Biceps brachii",
+  "image": "/assets/Biceps_Brachii.png",
+  "question": "Select all correct options for Biceps brachii",
+  "options": {
+    "name": [
+      "Biceps brachii",
+      "Brachialis",
+      "Triceps brachii",
+      "Coracobrachialis"
+    ],
+    "origin": [
+      "Short portion: Scapula (coracoid process)",
+      "Long portion: Supraglenoid tubercle",
+      "Humerus (anterior surface)",
+      "Infraglenoid tubercle"
+    ],
+    "insertion": [
+      "Radius: tuberosity of the radius",
+      "Ulnar tuberosity",
+      "Olecranon process",
+      "Radial head"
+    ],
+    "actions": [
+      "Flexion of the elbow",
+      "Flexion of the shoulder",
+      "Supination of the forearm",
+      "Extension of the elbow",
+      "Pronation of the forearm"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Biceps brachii"
+    ],
+    "origin": [
+      "Short portion: Scapula (coracoid process)",
+      "Long portion: Supraglenoid tubercle"
+    ],
+    "insertion": [
+      "Radius: tuberosity of the radius"
+    ],
+    "actions": [
+      "Flexion of the elbow",
+      "Flexion of the shoulder",
+      "Supination of the forearm"
+    ]
+  }
+},
+{
+  "id": "muscle-q-009",
+  "type": "multiple-choice",
+  "title": "Triceps brachii",
+  "image": "/assets/Triceps_Brachii.png",
+  "question": "Select all correct options for Triceps brachii",
+  "options": {
+    "name": [
+      "Triceps brachii",
+      "Biceps brachii",
+      "Anconeus",
+      "Brachialis"
+    ],
+    "origin": [
+      "Long portion: scapula (infraglenoid tubercle)",
+      "Medial portion: humerus (lower half of the posterior surface)",
+      "Lateral portion: humerus (upper half of the postero-lateral edge)",
+      "Coracoid process of scapula"
+    ],
+    "insertion": [
+      "Ulna: olecranon",
+      "Radius: tuberosity of the radius",
+      "Ulnar tuberosity"
+    ],
+    "actions": [
+      "Extension of the elbow",
+      "Extension of the shoulder",
+      "Flexion of the elbow",
+      "Supination of the forearm"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Triceps brachii"
+    ],
+    "origin": [
+      "Long portion: scapula (infraglenoid tubercle)",
+      "Medial portion: humerus (lower half of the posterior surface)",
+      "Lateral portion: humerus (upper half of the postero-lateral edge)"
+    ],
+    "insertion": [
+      "Ulna: olecranon"
+    ],
+    "actions": [
+      "Extension of the elbow",
+      "Extension of the shoulder"
+    ]
+  }
+},
+{
+  "id": "muscle-q-010",
+  "type": "multiple-choice",
+  "title": "Flexor carpi radialis",
+  "image": "/assets/Flexor_Carpi_Radialis.png",
+  "question": "Select all correct options for Flexor carpi radialis",
+  "options": {
+    "name": [
+      "Flexor carpi radialis",
+      "Flexor carpi ulnaris",
+      "Palmaris longus",
+      "Brachioradialis"
+    ],
+    "origin": [
+      "Humerus: medial epicondyle",
+      "Humerus: lateral epicondyle",
+      "Ulna: olecranon",
+      "Radius: anterior surface"
+    ],
+    "insertion": [
+      "Base of metacarpals II and III",
+      "Pisiform and hamate bone",
+      "Base of metacarpal V",
+      "Distal phalanges"
+    ],
+    "actions": [
+      "Flexion of the wrist",
+      "Abduction of the wrist",
+      "Adduction of the wrist",
+      "Extension of the wrist"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Flexor carpi radialis"
+    ],
+    "origin": [
+      "Humerus: medial epicondyle"
+    ],
+    "insertion": [
+      "Base of metacarpals II and III"
+    ],
+    "actions": [
+      "Flexion of the wrist",
+      "Abduction of the wrist"
+    ]
+  }
+},
+{
+  "id": "muscle-q-011",
+  "type": "multiple-choice",
+  "title": "Palmaris longus",
+  "image": "/assets/Palmaris_Longus.png",
+  "question": "Select all correct options for Palmaris longus",
+  "options": {
+    "name": [
+      "Palmaris longus",
+      "Flexor carpi radialis",
+      "Flexor carpi ulnaris",
+      "Flexor digitorum superficialis"
+    ],
+    "origin": [
+      "Humerus: medial epicondyle",
+      "Humerus: lateral epicondyle",
+      "Ulna: coronoid process",
+      "Radius: oblique line"
+    ],
+    "insertion": [
+      "Flexor retinaculum",
+      "Palmar aponeurosis",
+      "Base of metacarpal II",
+      "Pisiform bone"
+    ],
+    "actions": [
+      "Flexion of the wrist",
+      "Abduction of the wrist",
+      "Adduction of the wrist",
+      "Extension of the fingers"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Palmaris longus"
+    ],
+    "origin": [
+      "Humerus: medial epicondyle"
+    ],
+    "insertion": [
+      "Flexor retinaculum",
+      "Palmar aponeurosis"
+    ],
+    "actions": [
+      "Flexion of the wrist"
+    ]
+  }
+},
+{
+  "id": "muscle-q-012",
+  "type": "multiple-choice",
+  "title": "Flexor carpi ulnaris",
+  "image": "/assets/Flexor_Carpi_Ulnaris.png",
+  "question": "Select all correct options for Flexor carpi ulnaris",
+  "options": {
+    "name": [
+      "Flexor carpi ulnaris",
+      "Flexor carpi radialis",
+      "Extensor carpi ulnaris",
+      "Flexor digitorum profundus"
+    ],
+    "origin": [
+      "Humerus: medial epicondyle",
+      "Superior 1/3 of the posterior side of the ulna",
+      "Humerus: lateral epicondyle",
+      "Radius: anterior surface"
+    ],
+    "insertion": [
+      "Carpals: pisiform, hamatum",
+      "Base of metacarpal V",
+      "Base of metacarpals II and III",
+      "Distal phalanx of thumb"
+    ],
+    "actions": [
+      "Flexion of the wrist",
+      "Adduction of the wrist",
+      "Abduction of the wrist",
+      "Extension of the wrist"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Flexor carpi ulnaris"
+    ],
+    "origin": [
+      "Humerus: medial epicondyle",
+      "Superior 1/3 of the posterior side of the ulna"
+    ],
+    "insertion": [
+      "Carpals: pisiform, hamatum",
+      "Base of metacarpal V"
+    ],
+    "actions": [
+      "Flexion of the wrist",
+      "Adduction of the wrist"
+    ]
+  }
+},
+{
+  "id": "muscle-q-013",
+  "type": "multiple-choice",
+  "title": "Flexor digitorum superficialis",
+  "image": "/assets/Flexor_Digitorum_Superficialis.png",
+  "question": "Select all correct options for Flexor digitorum superficialis",
+  "options": {
+    "name": [
+      "Flexor digitorum superficialis",
+      "Flexor digitorum profundus",
+      "Flexor pollicis longus",
+      "Lumbricals"
+    ],
+    "origin": [
+      "Humerus: medial epicondyle",
+      "Ulna: medial side of the coronoid process",
+      "Radius: oblique line",
+      "Humerus: lateral epicondyle"
+    ],
+    "insertion": [
+      "Lateral and medial edges of the middle phalanges of the last four fingers (2 to 5)",
+      "Distal phalanges of the last four fingers",
+      "Base of the proximal phalanges",
+      "Metacarpal bones"
+    ],
+    "actions": [
+      "Flexion of the fingers",
+      "Flexion of the wrist",
+      "Extension of the fingers",
+      "Abduction of the fingers"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Flexor digitorum superficialis"
+    ],
+    "origin": [
+      "Humerus: medial epicondyle",
+      "Ulna: medial side of the coronoid process",
+      "Radius: oblique line"
+    ],
+    "insertion": [
+      "Lateral and medial edges of the middle phalanges of the last four fingers (2 to 5)"
+    ],
+    "actions": [
+      "Flexion of the fingers",
+      "Flexion of the wrist"
+    ]
+  }
+},
+{
+  "id": "muscle-q-014",
+  "type": "multiple-choice",
+  "title": "Extensor carpi radialis longus",
+  "image": "/assets/Extensor_Carpi_Radialis_Longus.png",
+  "question": "Select all correct options for Extensor carpi radialis longus",
+  "options": {
+    "name": [
+      "Extensor carpi radialis longus",
+      "Extensor carpi radialis brevis",
+      "Extensor carpi ulnaris",
+      "Brachioradialis"
+    ],
+    "origin": [
+      "Humerus: lateral supracondylar ridge",
+      "Humerus: lateral epicondyle",
+      "Humerus: medial epicondyle",
+      "Ulna: posterior surface"
+    ],
+    "insertion": [
+      "Base of the 2nd metacarpal",
+      "Base of the 3rd metacarpal",
+      "Base of the 5th metacarpal",
+      "Phalanges"
+    ],
+    "actions": [
+      "Extension of the wrist",
+      "Abduction of the wrist",
+      "Adduction of the wrist",
+      "Flexion of the wrist"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Extensor carpi radialis longus"
+    ],
+    "origin": [
+      "Humerus: lateral supracondylar ridge"
+    ],
+    "insertion": [
+      "Base of the 2nd metacarpal"
+    ],
+    "actions": [
+      "Extension of the wrist",
+      "Abduction of the wrist"
+    ]
+  }
+},
+{
+  "id": "muscle-q-015",
+  "type": "multiple-choice",
+  "title": "Extensor Carpi Radialis Brevis",
+  "image": "/assets/Extensor_Carpi_Radialis_Brevis.png",
+  "question": "Select all correct options for Extensor Carpi Radialis Brevis",
+  "options": {
+    "name": [
+      "Extensor Carpi Radialis Brevis",
+      "Extensor Carpi Radialis Longus",
+      "Extensor Digitorum",
+      "Extensor Carpi Ulnaris"
+    ],
+    "origin": [
+      "Humerus: lateral epicondyle",
+      "Humerus: lateral supracondylar ridge",
+      "Ulna: posterior surface",
+      "Radius: posterior surface"
+    ],
+    "insertion": [
+      "Base of the 3rd metacarpal",
+      "Base of the 2nd metacarpal",
+      "Base of the 5th metacarpal",
+      "Extensor expansion of fingers"
+    ],
+    "actions": [
+      "Extension of the wrist",
+      "Abduction of the wrist",
+      "Adduction of the wrist",
+      "Extension of the fingers"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Extensor Carpi Radialis Brevis"
+    ],
+    "origin": [
+      "Humerus: lateral epicondyle"
+    ],
+    "insertion": [
+      "Base of the 3rd metacarpal"
+    ],
+    "actions": [
+      "Extension of the wrist",
+      "Abduction of the wrist"
+    ]
+  }
+},
+{
+  "id": "muscle-q-016",
+  "type": "multiple-choice",
+  "title": "Extensor digitorum",
+  "image": "/assets/Extensor_Digitorum.png",
+  "question": "Select all correct options for Extensor digitorum",
+  "options": {
+    "name": [
+      "Extensor digitorum",
+      "Extensor indicis",
+      "Extensor digiti minimi",
+      "Flexor digitorum superficialis"
+    ],
+    "origin": [
+      "Humerus: lateral epicondyle",
+      "Humerus: medial epicondyle",
+      "Ulna: posterior surface",
+      "Radius: posterior surface"
+    ],
+    "insertion": [
+      "Distal phalanges of the last four fingers (2 to 5)",
+      "Middle phalanges of the last four fingers",
+      "Base of the 1st metacarpal",
+      "Carpal bones"
+    ],
+    "actions": [
+      "Extension of the fingers",
+      "Extension of the wrist",
+      "Abduction of the fingers",
+      "Flexion of the wrist"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Extensor digitorum"
+    ],
+    "origin": [
+      "Humerus: lateral epicondyle"
+    ],
+    "insertion": [
+      "Distal phalanges of the last four fingers (2 to 5)"
+    ],
+    "actions": [
+      "Extension of the fingers",
+      "Extension of the wrist",
+      "Abduction of the fingers"
+    ]
+  }
+},
+{
+  "id": "muscle-q-017",
+  "type": "multiple-choice",
+  "title": "Extensor Carpi Ulnaris",
+  "image": "/assets/Extensor_Carpi_Ulnaris.png",
+  "question": "Select all correct options for Extensor Carpi Ulnaris",
+  "options": {
+    "name": [
+      "Extensor Carpi Ulnaris",
+      "Flexor Carpi Ulnaris",
+      "Extensor Digiti Minimi",
+      "Extensor Carpi Radialis Brevis"
+    ],
+    "origin": [
+      "Humerus: lateral epicondyle",
+      "Ulna: 1/3 of the middle posterior side",
+      "Humerus: medial epicondyle",
+      "Radius: posterior surface"
+    ],
+    "insertion": [
+      "Base of the 5th metacarpal",
+      "Base of the 2nd metacarpal",
+      "Pisiform bone",
+      "Olecranon"
+    ],
+    "actions": [
+      "Extension of the wrist",
+      "Adduction of the wrist",
+      "Abduction of the wrist",
+      "Flexion of the wrist"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Extensor Carpi Ulnaris"
+    ],
+    "origin": [
+      "Humerus: lateral epicondyle",
+      "Ulna: 1/3 of the middle posterior side"
+    ],
+    "insertion": [
+      "Base of the 5th metacarpal"
+    ],
+    "actions": [
+      "Extension of the wrist",
+      "Adduction of the wrist"
+    ]
+  }
+}
 
   ]
 }
