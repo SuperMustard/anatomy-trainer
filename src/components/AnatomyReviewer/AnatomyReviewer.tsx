@@ -7,6 +7,7 @@ import MultipleChoicesCanvas from "../MultipleChoicesCanvas.tsx/MultipleChoicesC
 const CHAPTERS = [
   { id: "chapter1", label: "Upper Body Procubitus" },
   { id: "chapter2", label: "Upper Body Decubitus" },
+  { id: "chapter3", label: "Lower Body" },
 ];
 
 export default function AnatomyReviewer() {
