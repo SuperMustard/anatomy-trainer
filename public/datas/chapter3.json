@@ -282,754 +282,944 @@
   ]
   },
   {
-  "id": "muscle-q-003",
+  "id": "muscle-q-002",
   "type": "multiple-choice",
-  "title": "Sternocleidomastoid",
-  "image": "/assets/Sternocleidomastoid.png",
-  "question": "Select all correct options for Sternocleidomastoid",
+  "title": "Quadriceps Rectus femoris",
+  "image": "/assets/Rectus_Femoris.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Sternocleidomastoid",
-      "Scalene Muscles",
-      "Splenius Capitis",
-      "Platysma"
+      "Rectus femoris",
+      "Vastus lateralis",
+      "Sartorius",
+      "Iliopsoas"
     ],
     "origin": [
-      "Lateral portion: clavicle (1/3 medial and superior)",
-      "Medial portion: manubrium (superior and lateral part)",
-      "C1-C4 Transverse processes",
-      "Scapular spine"
+      "Pelvic bone: anterior inferior iliac spine",
+      "Supracetabular sulcus (reflected tendon)",
+      "Anterior superior iliac spine",
+      "Greater trochanter of femur",
+      "Body of L1 to L5 vertebrae"
     ],
     "insertion": [
-      "Mastoid Process (anterior and lateral part)",
-      "Superior nuchal line (occiput)",
-      "Zygomatic bone",
-      "Mandible"
+      "Base of the patella (quadricipital tendon)",
+      "Tibial tuberosity (patellar ligament)",
+      "Lesser trochanter of femur",
+      "Pes anserinus"
     ],
     "actions": [
-      "Unilateral: ipsilateral lateroflexion of the neck and the head",
-      "Unilateral: Contralateral rotation of the neck and head",
-      "Bilateral: flexion of the neck",
-      "Extension of the thoracic spine"
+      "Flexion of the hip",
+      "Extension of the knee",
+      "Abduction of the hip",
+      "Lateral rotation of the hip",
+      "Knee flexion"
     ]
   },
   "answer": {
     "name": [
-      "Sternocleidomastoid"
+      "Rectus femoris"
     ],
     "origin": [
-      "Lateral portion: clavicle (1/3 medial and superior)",
-      "Medial portion: manubrium (superior and lateral part)"
+      "Pelvic bone: anterior inferior iliac spine",
+      "Supracetabular sulcus (reflected tendon)"
     ],
     "insertion": [
-      "Mastoid Process (anterior and lateral part)",
-      "Superior nuchal line (occiput)"
+      "Base of the patella (quadricipital tendon)",
+      "Tibial tuberosity (patellar ligament)"
     ],
     "actions": [
-      "Unilateral: ipsilateral lateroflexion of the neck and the head",
-      "Unilateral: Contralateral rotation of the neck and head",
-      "Bilateral: flexion of the neck"
+      "Flexion of the hip",
+      "Extension of the knee"
+    ]
+  }
+},
+{
+  "id": "muscle-q-003",
+  "type": "multiple-choice",
+  "title": "Quadriceps Vastus lateralis",
+  "image": "/assets/Vastus_lateralis.png",
+  "question": "Select all correct options",
+  "options": {
+    "name": [
+      "Vastus lateralis",
+      "Vastus medialis",
+      "Vastus intermedius",
+      "Gluteus maximus"
+    ],
+    "origin": [
+      "Greater trochanter (lateral side)",
+      "Intertrochanteric line of the femur",
+      "Lateral lip of the linea aspera",
+      "Anterior and lateral shaft of the femur",
+      "Medial lip of the linea aspera",
+      "Iliac crest"
+    ],
+    "insertion": [
+      "Base of the patella (quadricipital tendon)",
+      "Tibial tuberosity (patellar ligament)",
+      "Iliotibial tract",
+      "Adductor tubercle"
+    ],
+    "actions": [
+      "Extension of the knee",
+      "Flexion of the hip",
+      "Lateral rotation of the hip",
+      "Abduction of the hip"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Vastus lateralis"
+    ],
+    "origin": [
+      "Greater trochanter (lateral side)",
+      "Intertrochanteric line of the femur",
+      "Lateral lip of the linea aspera"
+    ],
+    "insertion": [
+      "Base of the patella (quadricipital tendon)",
+      "Tibial tuberosity (patellar ligament)"
+    ],
+    "actions": [
+      "Extension of the knee"
     ]
   }
 },
 {
   "id": "muscle-q-004",
   "type": "multiple-choice",
-  "title": "Pectoralis major",
-  "image": "/assets/Pectoralis_major.png",
-  "question": "Select all correct options for Pectoralis major",
+  "title": "Quadriceps Vastus Medialis",
+  "image": "/assets/Vastus_medialis.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Pectoralis major",
-      "Pectoralis minor",
-      "Serratus anterior",
-      "Subclavius"
+      "Vastus medialis",
+      "Vastus lateralis",
+      "Vastus intermedius",
+      "Adductor longus"
     ],
     "origin": [
-      "Clavicle: medial",
-      "Sternum",
-      "Costal cartilage of the first 6 ribs",
-      "Coracoid process of scapula"
+      "Medial side of the linea aspera",
+      "Intertrochanteric line of the femur",
+      "Lateral side of the linea aspera",
+      "Greater trochanter",
+      "Pectineal line of the femur"
     ],
     "insertion": [
-      "Humerus: lateral lip of the intertubercular groove",
-      "Greater tubercle of humerus",
-      "Lesser tubercle of humerus"
+      "Base of the patella (quadricipital tendon)",
+      "Tibial tuberosity (patellar ligament)",
+      "Adductor tubercle",
+      "Lesser trochanter"
     ],
     "actions": [
-      "Internal rotation of the shoulder",
-      "Horizontal adduction of the shoulder",
-      "Adduction of the shoulder",
-      "Flexion/extension of the shoulder",
-      "Scapular protraction"
+      "Extension of the knee",
+      "Flexion of the hip",
+      "Adduction of the hip",
+      "Medial rotation of the knee (when flexed)"
     ]
   },
   "answer": {
     "name": [
-      "Pectoralis major"
+      "Vastus medialis"
     ],
     "origin": [
-      "Clavicle: medial",
-      "Sternum",
-      "Costal cartilage of the first 6 ribs"
+      "Medial side of the linea aspera",
+      "Intertrochanteric line of the femur"
     ],
     "insertion": [
-      "Humerus: lateral lip of the intertubercular groove"
+      "Base of the patella (quadricipital tendon)",
+      "Tibial tuberosity (patellar ligament)"
     ],
     "actions": [
-      "Internal rotation of the shoulder",
-      "Horizontal adduction of the shoulder",
-      "Adduction of the shoulder",
-      "Flexion/extension of the shoulder"
+      "Extension of the knee"
     ]
   }
 },
 {
   "id": "muscle-q-005",
   "type": "multiple-choice",
-  "title": "Rectus abdominis",
-  "image": "/assets/Rectus_Abdominis.png",
-  "question": "Select all correct options for Rectus abdominis",
+  "title": "Quadriceps Vastus Intermedius",
+  "image": "/assets/Vastus_intermedius.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Rectus abdominis",
-      "Transversus abdominis",
-      "External oblique",
-      "Internal oblique"
+      "Vastus intermedius",
+      "Vastus lateralis",
+      "Vastus medialis",
+      "Rectus femoris"
     ],
     "origin": [
-      "Pubis: pubic crest",
-      "Iliac crest",
-      "Inguinal ligament",
-      "Thoracolumbar fascia"
+      "Antero-lateral side of the femur",
+      "Anterior inferior iliac spine",
+      "Greater trochanter",
+      "Medial side of the linea aspera",
+      "Lateral side of the linea aspera"
     ],
     "insertion": [
-      "5,6,7 ribs (costal cartilage)",
-      "Sternum: xiphoid process",
-      "Linea alba",
-      "Pubic tubercle"
+      "Base of the patella (quadricipital tendon)",
+      "Tibial tuberosity (patellar ligament)",
+      "Lesser trochanter",
+      "Iliotibial tract"
     ],
     "actions": [
-      "Flexion of the trunk",
-      "Organs protection",
-      "Force expiration",
-      "Lateral rotation of the trunk",
-      "Extension of the lumbar spine"
+      "Extension of the knee",
+      "Flexion of the hip",
+      "Medial rotation of the hip",
+      "Lateral rotation of the hip"
     ]
   },
   "answer": {
     "name": [
-      "Rectus abdominis"
+      "Vastus intermedius"
     ],
     "origin": [
-      "Pubis: pubic crest"
+      "Antero-lateral side of the femur"
     ],
     "insertion": [
-      "5,6,7 ribs (costal cartilage)",
-      "Sternum: xiphoid process"
+      "Base of the patella (quadricipital tendon)",
+      "Tibial tuberosity (patellar ligament)"
     ],
     "actions": [
-      "Flexion of the trunk",
-      "Organs protection",
-      "Force expiration"
+      "Extension of the knee"
     ]
   }
 },
 {
   "id": "muscle-q-006",
   "type": "multiple-choice",
-  "title": "External Oblique Abdominis",
-  "image": "/assets/External_Oblique_Abdominis.png",
-  "question": "Select all correct options for External Oblique Abdominis",
+  "title": "Sartorius",
+  "image": "/assets/Sartorius.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "External Oblique Abdominis",
-      "Internal Oblique Abdominis",
-      "Transversus Abdominis",
-      "Rectus Abdominis"
+      "Sartorius",
+      "Rectus femoris",
+      "Gracilis",
+      "Tensor fasciae latae"
     ],
     "origin": [
-      "Ribs 5 to 12",
-      "Thoracolumbar fascia",
-      "Iliac crest (intermediate line)",
-      "Pubic crest"
+      "Pelvic bone: anterior superior iliac spine",
+      "Anterior inferior iliac spine",
+      "Pubic symphysis",
+      "Iliac crest"
     ],
     "insertion": [
-      "Anterior iliac crest (external lip)",
-      "Abdominal fascia",
-      "Inguinal ligament",
-      "Ribs 9 to 12",
-      "Linea alba"
+      "Tibia: anterior, under the medial condyle (pes anserinus)",
+      "Base of the patella",
+      "Greater trochanter",
+      "Lateral condyle of the tibia"
     ],
     "actions": [
-      "Unilateral: contralateral rotation of the trunk",
-      "Unilateral: ipsilateral lateral flexion of the trunk",
-      "Bilateral: flexion of the trunk",
-      "Bilateral: forced expiration",
-      "Bilateral: extension of the spine"
+      "Hip flexion",
+      "Flexion of the knee",
+      "External rotation of the hip",
+      "Abduction of the hip",
+      "Internal rotation of the hip",
+      "Extension of the knee"
     ]
   },
   "answer": {
     "name": [
-      "External Oblique Abdominis"
+      "Sartorius"
     ],
     "origin": [
-      "Ribs 5 to 12"
+      "Pelvic bone: anterior superior iliac spine"
     ],
     "insertion": [
-      "Anterior iliac crest (external lip)",
-      "Abdominal fascia",
-      "Inguinal ligament"
+      "Tibia: anterior, under the medial condyle (pes anserinus (goose foot))"
     ],
     "actions": [
-      "Unilateral: contralateral rotation of the trunk",
-      "Unilateral: ipsilateral lateral flexion of the trunk",
-      "Bilateral: flexion of the trunk",
-      "Bilateral: forced expiration"
+      "Hip flexion",
+      "Flexion of the knee",
+      "External rotation of the hip",
+      "Abduction of the hip"
     ]
   }
 },
 {
   "id": "muscle-q-007",
   "type": "multiple-choice",
-  "title": "Internal Oblique Abdominis",
-  "image": "/assets/Internal_Oblique_Abdominis.png",
-  "question": "Select all correct options for Internal Oblique Abdominis",
+  "title": "Hip Adductors Group",
+  "image": "/assets/Hip_adductors_group.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Internal Oblique Abdominis",
-      "External Oblique Abdominis",
-      "Transversus Abdominis",
-      "Quadratus Lumborum"
+      "Hip Adductors Group",
+      "Gluteus medius",
+      "Tensor fasciae latae",
+      "Iliopsoas"
     ],
     "origin": [
-      "Iliac crest (intermediate lip)",
-      "Inguinal ligament",
-      "Thoracolumbar fascia",
-      "Ribs 5 to 12"
+      "Pelvic bone: ischiopubic part",
+      "Iliac crest",
+      "Anterior superior iliac spine",
+      "Sacrum (anterior surface)"
     ],
     "insertion": [
-      "Ribs: 9 to 12",
-      "Abdominal fascia",
-      "Linea alba",
-      "Pubic crest"
+      "Femur: linea aspera",
+      "Tibia (Gracilis only)",
+      "Greater trochanter",
+      "Iliotibial tract",
+      "Lesser trochanter"
     ],
     "actions": [
-      "Unilateral: Ipsilateral rotation of the trunk",
-      "Unilateral: Ipsilateral lateroflexion of the trunk",
-      "Bilateral: Flexion of the trunk",
-      "Bilateral: Forced expiration",
-      "Unilateral: Contralateral rotation of the trunk"
+      "Adduction of hip",
+      "Abduction of hip",
+      "Lateral rotation of the hip",
+      "Extension of the knee"
     ]
   },
   "answer": {
     "name": [
-      "Internal Oblique Abdominis"
+      "Hip Adductors Group"
     ],
     "origin": [
-      "Iliac crest (intermediate lip)",
-      "Inguinal ligament",
-      "Thoracolumbar fascia"
+      "Pelvic bone: ischiopubic part"
     ],
     "insertion": [
-      "Ribs: 9 to 12",
-      "Abdominal fascia"
+      "Femur: linea aspera",
+      "Tibia (Gracilis only)"
     ],
     "actions": [
-      "Unilateral: Ipsilateral rotation of the trunk",
-      "Unilateral: Ipsilateral lateroflexion of the trunk",
-      "Bilateral: Flexion of the trunk",
-      "Bilateral: Forced expiration"
+      "Adduction of hip"
     ]
   }
 },
 {
   "id": "muscle-q-008",
   "type": "multiple-choice",
-  "title": "Biceps brachii",
-  "image": "/assets/Biceps_Brachii.png",
-  "question": "Select all correct options for Biceps brachii",
+  "title": "Iliotibial tract (band)",
+  "image": "/assets/Iliotibial_tract.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Biceps brachii",
-      "Brachialis",
-      "Triceps brachii",
-      "Coracobrachialis"
+      "Iliotibial tract (band)",
+      "Biceps femoris",
+      "Sartorius",
+      "Vastus lateralis"
     ],
     "origin": [
-      "Short portion: Scapula (coracoid process)",
-      "Long portion: Supraglenoid tubercle",
-      "Humerus (anterior surface)",
-      "Infraglenoid tubercle"
+      "Pelvic bone: iliac crest",
+      "Anterior superior iliac spine",
+      "Ischial tuberosity",
+      "Greater trochanter"
     ],
     "insertion": [
-      "Radius: tuberosity of the radius",
-      "Ulnar tuberosity",
-      "Olecranon process",
-      "Radial head"
+      "Tibia: lateral condyle",
+      "Tibial tuberosity",
+      "Head of the fibula",
+      "Medial condyle of the tibia"
     ],
     "actions": [
-      "Flexion of the elbow",
-      "Flexion of the shoulder",
-      "Supination of the forearm",
-      "Extension of the elbow",
-      "Pronation of the forearm"
+      "None",
+      "Abduction of the hip",
+      "Extension of the knee",
+      "Flexion of the knee"
     ]
   },
   "answer": {
     "name": [
-      "Biceps brachii"
+      "Iliotibial tract (band)"
     ],
     "origin": [
-      "Short portion: Scapula (coracoid process)",
-      "Long portion: Supraglenoid tubercle"
+      "Pelvic bone: iliac crest"
     ],
     "insertion": [
-      "Radius: tuberosity of the radius"
+      "Tibia: lateral condyle"
     ],
     "actions": [
-      "Flexion of the elbow",
-      "Flexion of the shoulder",
-      "Supination of the forearm"
+      "None"
     ]
   }
 },
 {
   "id": "muscle-q-009",
   "type": "multiple-choice",
-  "title": "Triceps brachii",
-  "image": "/assets/Triceps_Brachii.png",
-  "question": "Select all correct options for Triceps brachii",
+  "title": "Tensor fasciae latae",
+  "image": "/assets/Tensor_fasciae_latae.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Triceps brachii",
-      "Biceps brachii",
-      "Anconeus",
-      "Brachialis"
+      "Tensor fasciae latae",
+      "Gluteus medius",
+      "Sartorius",
+      "Piriformis"
     ],
     "origin": [
-      "Long portion: scapula (infraglenoid tubercle)",
-      "Medial portion: humerus (lower half of the posterior surface)",
-      "Lateral portion: humerus (upper half of the postero-lateral edge)",
-      "Coracoid process of scapula"
+      "Pelvic bone: anterior superior iliac spine",
+      "Pelvic bone: anterior iliac crest",
+      "Anterior inferior iliac spine",
+      "Ischial tuberosity",
+      "Sacrum (anterior surface)"
     ],
     "insertion": [
-      "Ulna: olecranon",
-      "Radius: tuberosity of the radius",
-      "Ulnar tuberosity"
+      "Iliotibial tract: under the greater trochanter",
+      "Greater trochanter of the femur",
+      "Linea aspera",
+      "Pes anserinus"
     ],
     "actions": [
-      "Extension of the elbow",
-      "Extension of the shoulder",
-      "Flexion of the elbow",
-      "Supination of the forearm"
+      "Hip abduction",
+      "Flexion of the hip",
+      "Internal rotation of the hip",
+      "External rotation of the hip",
+      "Extension of the hip"
     ]
   },
   "answer": {
     "name": [
-      "Triceps brachii"
+      "Tensor fasciae latae"
     ],
     "origin": [
-      "Long portion: scapula (infraglenoid tubercle)",
-      "Medial portion: humerus (lower half of the posterior surface)",
-      "Lateral portion: humerus (upper half of the postero-lateral edge)"
+      "Pelvic bone: anterior superior iliac spine",
+      "Pelvic bone: anterior iliac crest"
     ],
     "insertion": [
-      "Ulna: olecranon"
+      "Iliotibial tract: under the greater trochanter"
     ],
     "actions": [
-      "Extension of the elbow",
-      "Extension of the shoulder"
+      "Hip abduction",
+      "Flexion of the hip",
+      "Internal rotation of the hip"
     ]
   }
 },
 {
   "id": "muscle-q-010",
   "type": "multiple-choice",
-  "title": "Flexor carpi radialis",
-  "image": "/assets/Flexor_Carpi_Radialis.png",
-  "question": "Select all correct options for Flexor carpi radialis",
+  "title": "Gluteus Maximus",
+  "image": "/assets/Gluteus_maximus.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Flexor carpi radialis",
-      "Flexor carpi ulnaris",
-      "Palmaris longus",
-      "Brachioradialis"
+      "Gluteus Maximus",
+      "Gluteus Medius",
+      "Piriformis",
+      "Biceps femoris"
     ],
     "origin": [
-      "Humerus: medial epicondyle",
-      "Humerus: lateral epicondyle",
-      "Ulna: olecranon",
-      "Radius: anterior surface"
+      "Pelvic bone: posterior iliac crest",
+      "Sacrum and coccyx",
+      "Ischial tuberosity",
+      "Anterior surface of sacrum"
     ],
     "insertion": [
-      "Base of metacarpals II and III",
-      "Pisiform and hamate bone",
-      "Base of metacarpal V",
-      "Distal phalanges"
+      "Femur: upper part of linea aspera",
+      "Iliotibial tract: 1/3 of the superior part",
+      "Greater trochanter",
+      "Lesser trochanter"
     ],
     "actions": [
-      "Flexion of the wrist",
-      "Abduction of the wrist",
-      "Adduction of the wrist",
-      "Extension of the wrist"
+      "Extension of the hip",
+      "Hip abduction",
+      "External rotation of the hip",
+      "Flexion of the hip",
+      "Internal rotation of the hip"
     ]
   },
   "answer": {
     "name": [
-      "Flexor carpi radialis"
+      "Gluteus Maximus"
     ],
     "origin": [
-      "Humerus: medial epicondyle"
+      "Pelvic bone: posterior iliac crest",
+      "Sacrum and coccyx"
     ],
     "insertion": [
-      "Base of metacarpals II and III"
+      "Femur: upper part of linea aspera",
+      "Iliotibial tract: 1/3 of the superior part"
     ],
     "actions": [
-      "Flexion of the wrist",
-      "Abduction of the wrist"
+      "Extension of the hip",
+      "Hip abduction",
+      "External rotation of the hip"
     ]
   }
 },
 {
   "id": "muscle-q-011",
   "type": "multiple-choice",
-  "title": "Palmaris longus",
-  "image": "/assets/Palmaris_Longus.png",
-  "question": "Select all correct options for Palmaris longus",
+  "title": "Gluteus Medius",
+  "image": "/assets/Gluteus_medius.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Palmaris longus",
-      "Flexor carpi radialis",
-      "Flexor carpi ulnaris",
-      "Flexor digitorum superficialis"
+      "Gluteus Medius",
+      "Gluteus Maximus",
+      "Piriformis",
+      "Adductor magnus"
     ],
     "origin": [
-      "Humerus: medial epicondyle",
-      "Humerus: lateral epicondyle",
-      "Ulna: coronoid process",
-      "Radius: oblique line"
+      "Pelvic bone: gluteal surface of the ilium",
+      "Posterior iliac crest",
+      "Ischial tuberosity",
+      "Sacrum (anterior surface)"
     ],
     "insertion": [
-      "Flexor retinaculum",
-      "Palmar aponeurosis",
-      "Base of metacarpal II",
-      "Pisiform bone"
+      "Femur: greater trochanter",
+      "Femur: lesser trochanter",
+      "Iliotibial tract",
+      "Linea aspera"
     ],
     "actions": [
-      "Flexion of the wrist",
-      "Abduction of the wrist",
-      "Adduction of the wrist",
-      "Extension of the fingers"
+      "Hip abduction",
+      "Hip adduction",
+      "Extension of the hip",
+      "Flexion of the hip"
     ]
   },
   "answer": {
     "name": [
-      "Palmaris longus"
+      "Gluteus Medius"
     ],
     "origin": [
-      "Humerus: medial epicondyle"
+      "Pelvic bone: gluteal surface of the ilium"
     ],
     "insertion": [
-      "Flexor retinaculum",
-      "Palmar aponeurosis"
+      "Femur: greater trochanter"
     ],
     "actions": [
-      "Flexion of the wrist"
+      "Hip abduction"
     ]
   }
 },
 {
   "id": "muscle-q-012",
   "type": "multiple-choice",
-  "title": "Flexor carpi ulnaris",
-  "image": "/assets/Flexor_Carpi_Ulnaris.png",
-  "question": "Select all correct options for Flexor carpi ulnaris",
+  "title": "Hamstring - Semitendinosus",
+  "image": "/assets/Hamstring_semitendinosus.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Flexor carpi ulnaris",
-      "Flexor carpi radialis",
-      "Extensor carpi ulnaris",
-      "Flexor digitorum profundus"
+      "Semitendinosus",
+      "Semimembranosus",
+      "Biceps femoris",
+      "Sartorius"
     ],
     "origin": [
-      "Humerus: medial epicondyle",
-      "Superior 1/3 of the posterior side of the ulna",
-      "Humerus: lateral epicondyle",
-      "Radius: anterior surface"
+      "Pelvic bone: ischial tuberosity",
+      "Anterior inferior iliac spine",
+      "Pubic bone: symphysis",
+      "Linea aspera: lateral lip"
     ],
     "insertion": [
-      "Carpals: pisiform, hamatum",
-      "Base of metacarpal V",
-      "Base of metacarpals II and III",
-      "Distal phalanx of thumb"
+      "Tibia: anterior, under the medial condyle (pes anserinus)",
+      "Tibia: posterior, medial condyle",
+      "Head of the fibula",
+      "Tibial tuberosity"
     ],
     "actions": [
-      "Flexion of the wrist",
-      "Adduction of the wrist",
-      "Abduction of the wrist",
-      "Extension of the wrist"
+      "Extension of the hip",
+      "Flexion of the knee",
+      "Extension of the knee",
+      "Abduction of the hip"
     ]
   },
   "answer": {
     "name": [
-      "Flexor carpi ulnaris"
+      "Semitendinosus"
     ],
     "origin": [
-      "Humerus: medial epicondyle",
-      "Superior 1/3 of the posterior side of the ulna"
+      "Pelvic bone: ischial tuberosity"
     ],
     "insertion": [
-      "Carpals: pisiform, hamatum",
-      "Base of metacarpal V"
+      "Tibia: anterior, under the medial condyle (by the pes anserinus (goose foot))"
     ],
     "actions": [
-      "Flexion of the wrist",
-      "Adduction of the wrist"
+      "Extension of the hip",
+      "Flexion of the knee"
     ]
   }
 },
 {
   "id": "muscle-q-013",
   "type": "multiple-choice",
-  "title": "Flexor digitorum superficialis",
-  "image": "/assets/Flexor_Digitorum_Superficialis.png",
-  "question": "Select all correct options for Flexor digitorum superficialis",
+  "title": "Hamstring - Semimembranosus",
+  "image": "/assets/Semimembranosus.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Flexor digitorum superficialis",
-      "Flexor digitorum profundus",
-      "Flexor pollicis longus",
-      "Lumbricals"
+      "Semimembranosus",
+      "Semitendinosus",
+      "Biceps femoris",
+      "Adductor magnus"
     ],
     "origin": [
-      "Humerus: medial epicondyle",
-      "Ulna: medial side of the coronoid process",
-      "Radius: oblique line",
-      "Humerus: lateral epicondyle"
+      "Pelvic bone: ischial tuberosity",
+      "Ischial ramus",
+      "Linea aspera: medial lip",
+      "Femur: posterior shaft"
     ],
     "insertion": [
-      "Lateral and medial edges of the middle phalanges of the last four fingers (2 to 5)",
-      "Distal phalanges of the last four fingers",
-      "Base of the proximal phalanges",
-      "Metacarpal bones"
+      "Posterior side of the medial condyle",
+      "Tibia: anterior (pes anserinus)",
+      "Head of the fibula",
+      "Lateral condyle of the femur"
     ],
     "actions": [
-      "Flexion of the fingers",
-      "Flexion of the wrist",
-      "Extension of the fingers",
-      "Abduction of the fingers"
+      "Extension of the hip",
+      "Flexion of the knee",
+      "Lateral rotation of the hip",
+      "Extension of the knee"
     ]
   },
   "answer": {
     "name": [
-      "Flexor digitorum superficialis"
+      "Semimembranosus"
     ],
     "origin": [
-      "Humerus: medial epicondyle",
-      "Ulna: medial side of the coronoid process",
-      "Radius: oblique line"
+      "Pelvic bone: ischial tuberosity"
     ],
     "insertion": [
-      "Lateral and medial edges of the middle phalanges of the last four fingers (2 to 5)"
+      "Posterior side of the medial condyle"
     ],
     "actions": [
-      "Flexion of the fingers",
-      "Flexion of the wrist"
+      "Extension of the hip",
+      "Flexion of the knee"
     ]
   }
 },
 {
   "id": "muscle-q-014",
   "type": "multiple-choice",
-  "title": "Extensor carpi radialis longus",
-  "image": "/assets/Extensor_Carpi_Radialis_Longus.png",
-  "question": "Select all correct options for Extensor carpi radialis longus",
+  "title": "Hamstring - Biceps femoris",
+  "image": "/assets/Biceps_femoris.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Extensor carpi radialis longus",
-      "Extensor carpi radialis brevis",
-      "Extensor carpi ulnaris",
-      "Brachioradialis"
+      "Biceps femoris",
+      "Semitendinosus",
+      "Semimembranosus",
+      "Adductor magnus"
     ],
     "origin": [
-      "Humerus: lateral supracondylar ridge",
-      "Humerus: lateral epicondyle",
-      "Humerus: medial epicondyle",
-      "Ulna: posterior surface"
+      "Pelvic bone: ischial tuberosity",
+      "Femur: lower half of the linea aspera",
+      "Anterior inferior iliac spine",
+      "Greater trochanter"
     ],
     "insertion": [
-      "Base of the 2nd metacarpal",
-      "Base of the 3rd metacarpal",
-      "Base of the 5th metacarpal",
-      "Phalanges"
+      "Fibular head",
+      "Tibia: lateral condyle",
+      "Tibia: medial condyle",
+      "Pes anserinus"
     ],
     "actions": [
-      "Extension of the wrist",
-      "Abduction of the wrist",
-      "Adduction of the wrist",
-      "Flexion of the wrist"
+      "Extension of the hip",
+      "Flexion of the knee",
+      "Extension of the knee",
+      "Internal rotation of the hip"
     ]
   },
   "answer": {
     "name": [
-      "Extensor carpi radialis longus"
+      "Biceps femoris"
     ],
     "origin": [
-      "Humerus: lateral supracondylar ridge"
+      "Pelvic bone: ischial tuberosity",
+      "Femur: lower half of the linea aspera"
     ],
     "insertion": [
-      "Base of the 2nd metacarpal"
+      "Fibular head",
+      "Tibia: lateral condyle"
     ],
     "actions": [
-      "Extension of the wrist",
-      "Abduction of the wrist"
+      "Extension of the hip",
+      "Flexion of the knee"
     ]
   }
 },
 {
   "id": "muscle-q-015",
   "type": "multiple-choice",
-  "title": "Extensor Carpi Radialis Brevis",
-  "image": "/assets/Extensor_Carpi_Radialis_Brevis.png",
-  "question": "Select all correct options for Extensor Carpi Radialis Brevis",
+  "title": "Gastrocnemius",
+  "image": "/assets/Gastrocnemius.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Extensor Carpi Radialis Brevis",
-      "Extensor Carpi Radialis Longus",
-      "Extensor Digitorum",
-      "Extensor Carpi Ulnaris"
+      "Gastrocnemius",
+      "Soleus",
+      "Tibialis anterior",
+      "Plantaris"
     ],
     "origin": [
-      "Humerus: lateral epicondyle",
-      "Humerus: lateral supracondylar ridge",
-      "Ulna: posterior surface",
-      "Radius: posterior surface"
+      "Lateral head: femur, supracondylar lateral line",
+      "Medial head: femur, supracondylar medial line",
+      "Posterior surface of tibia and fibula",
+      "Head of the fibula"
     ],
     "insertion": [
-      "Base of the 3rd metacarpal",
-      "Base of the 2nd metacarpal",
-      "Base of the 5th metacarpal",
-      "Extensor expansion of fingers"
+      "Calcanues: posterior surface by the Achilles tendon",
+      "Base of the 5th metatarsal",
+      "Medial cuneiform"
     ],
     "actions": [
-      "Extension of the wrist",
-      "Abduction of the wrist",
-      "Adduction of the wrist",
-      "Extension of the fingers"
+      "Flexion of the knee",
+      "Plantar flexion",
+      "Dorsiflexion",
+      "Inversion of the foot"
     ]
   },
   "answer": {
     "name": [
-      "Extensor Carpi Radialis Brevis"
+      "Gastrocnemius"
     ],
     "origin": [
-      "Humerus: lateral epicondyle"
+      "Lateral head: femur, supracondylar lateral line",
+      "Medial head: femur, supracondylar medial line"
     ],
     "insertion": [
-      "Base of the 3rd metacarpal"
+      "Calcanues: posterior surface by the Achilles tendon"
     ],
     "actions": [
-      "Extension of the wrist",
-      "Abduction of the wrist"
+      "Flexion of the knee",
+      "Plantar flexion"
     ]
   }
 },
 {
   "id": "muscle-q-016",
   "type": "multiple-choice",
-  "title": "Extensor digitorum",
-  "image": "/assets/Extensor_Digitorum.png",
-  "question": "Select all correct options for Extensor digitorum",
+  "title": "Tibialis Anterior",
+  "image": "/assets/Tibialis_anterior.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Extensor digitorum",
-      "Extensor indicis",
-      "Extensor digiti minimi",
-      "Flexor digitorum superficialis"
+      "Tibialis Anterior",
+      "Peroneus longus",
+      "Extensor digitorum longus",
+      "Tibialis posterior"
     ],
     "origin": [
-      "Humerus: lateral epicondyle",
-      "Humerus: medial epicondyle",
-      "Ulna: posterior surface",
-      "Radius: posterior surface"
+      "Tibia: lateral condyle",
+      "Upper 1/2 of the lateral side of the diaphysis",
+      "Interosseous membrane",
+      "Head of the fibula",
+      "Posterior surface of the tibia"
     ],
     "insertion": [
-      "Distal phalanges of the last four fingers (2 to 5)",
-      "Middle phalanges of the last four fingers",
-      "Base of the 1st metacarpal",
-      "Carpal bones"
+      "Medial cuneiforme (medial side)",
+      "Base of the 1st metatarsal",
+      "Base of the 5th metatarsal",
+      "Distal phalanx of the great toe"
     ],
     "actions": [
-      "Extension of the fingers",
-      "Extension of the wrist",
-      "Abduction of the fingers",
-      "Flexion of the wrist"
+      "Dorsiflexion of the ankle",
+      "Inversion of the ankle",
+      "Plantar flexion",
+      "Eversion of the ankle"
     ]
   },
   "answer": {
     "name": [
-      "Extensor digitorum"
+      "Tibialis Anterior"
     ],
     "origin": [
-      "Humerus: lateral epicondyle"
+      "Tibia: lateral condyle",
+      "Upper 1/2 of the lateral side of the diaphysis",
+      "Interosseous membrane"
     ],
     "insertion": [
-      "Distal phalanges of the last four fingers (2 to 5)"
+      "Medial cuneiforme (medial side)",
+      "Base of the 1st metatarsal"
     ],
     "actions": [
-      "Extension of the fingers",
-      "Extension of the wrist",
-      "Abduction of the fingers"
+      "Dorsiflexion of the ankle",
+      "Inversion of the ankle"
     ]
   }
 },
 {
   "id": "muscle-q-017",
   "type": "multiple-choice",
-  "title": "Extensor Carpi Ulnaris",
-  "image": "/assets/Extensor_Carpi_Ulnaris.png",
-  "question": "Select all correct options for Extensor Carpi Ulnaris",
+  "title": "Fibularis Longus",
+  "image": "/assets/Fibularis_Longus.png",
+  "question": "Select all correct options",
   "options": {
     "name": [
-      "Extensor Carpi Ulnaris",
-      "Flexor Carpi Ulnaris",
-      "Extensor Digiti Minimi",
-      "Extensor Carpi Radialis Brevis"
+      "Fibularis Longus",
+      "Fibularis Brevis",
+      "Tibialis Anterior",
+      "Extensor Digitorum Longus"
     ],
     "origin": [
-      "Humerus: lateral epicondyle",
-      "Ulna: 1/3 of the middle posterior side",
-      "Humerus: medial epicondyle",
-      "Radius: posterior surface"
+      "Fibula: Fibular head",
+      "Fibular: diaphysis, superior portion",
+      "Tibia: lateral condyle",
+      "Interosseous membrane"
     ],
     "insertion": [
-      "Base of the 5th metacarpal",
-      "Base of the 2nd metacarpal",
-      "Pisiform bone",
-      "Olecranon"
+      "First metatarsal",
+      "Medial cuneiform",
+      "Base of the 5th metatarsal",
+      "Distal phalanx of the great toe"
     ],
     "actions": [
-      "Extension of the wrist",
-      "Adduction of the wrist",
-      "Abduction of the wrist",
-      "Flexion of the wrist"
+      "Eversion of the ankle",
+      "Plantar flexion of the ankle",
+      "Inversion of the ankle",
+      "Dorsiflexion of the ankle"
     ]
   },
   "answer": {
     "name": [
-      "Extensor Carpi Ulnaris"
+      "Fibularis Longus"
     ],
     "origin": [
-      "Humerus: lateral epicondyle",
-      "Ulna: 1/3 of the middle posterior side"
+      "Fibula: Fibular head",
+      "Fibular: diaphysis, superior portion"
     ],
     "insertion": [
-      "Base of the 5th metacarpal"
+      "First metatarsal",
+      "Medial cuneiform"
     ],
     "actions": [
-      "Extension of the wrist",
-      "Adduction of the wrist"
+      "Eversion of the ankle",
+      "Plantar flexion of the ankle"
+    ]
+  }
+},
+{
+  "id": "muscle-q-018",
+  "type": "multiple-choice",
+  "title": "Abductor Hallucis",
+  "image": "/assets/Abductor_Hallucis.png",
+  "question": "Select all correct options",
+  "options": {
+    "name": [
+      "Abductor Hallucis",
+      "Adductor Hallucis",
+      "Flexor Hallucis Brevis",
+      "Abductor Digiti Minimi"
+    ],
+    "origin": [
+      "Calcaneus: the medial calcaneal process",
+      "Calcaneus: the lateral calcaneal process",
+      "Cuboid and lateral cuneiform",
+      "Flexor retinaculum"
+    ],
+    "insertion": [
+      "The proximal phalanx of the hallux on the medial side of the base",
+      "The proximal phalanx of the hallux on the lateral side of the base",
+      "Base of the 1st metatarsal",
+      "Distal phalanx of the hallux"
+    ],
+    "actions": [
+      "Abduction of the hallux",
+      "Flexion of the hallux",
+      "Adduction of the hallux",
+      "Extension of the hallux"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Abductor Hallucis"
+    ],
+    "origin": [
+      "Calcaneus: the medial calcaneal process"
+    ],
+    "insertion": [
+      "The proximal phalanx of the hallux on the medial side of the base"
+    ],
+    "actions": [
+      "Abduction of the hallux",
+      "Flexion of the hallux"
+    ]
+  }
+},
+{
+  "id": "muscle-q-019",
+  "type": "multiple-choice",
+  "title": "Abductor digiti minimi pedis",
+  "image": "/assets/Abductor_digiti_minimi_pedis.png",
+  "question": "Select all correct options",
+  "options": {
+    "name": [
+      "Abductor digiti minimi pedis",
+      "Flexor digiti minimi brevis",
+      "Opponens digiti minimi",
+      "Fibularis brevis"
+    ],
+    "origin": [
+      "Calcaneus: lateral",
+      "Calcaneus: medial process",
+      "Base of the 5th metatarsal",
+      "Cuboid bone"
+    ],
+    "insertion": [
+      "Tuberosity of the 5th metatarsal",
+      "5th toe’s proximal phalanx",
+      "Middle phalanx of the 5th toe",
+      "Distal phalanx of the 5th toe"
+    ],
+    "actions": [
+      "Abduction of the little toe",
+      "Flexion of the little toe",
+      "Extension of the little toe",
+      "Adduction of the little toe"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Abductor digiti minimi pedis"
+    ],
+    "origin": [
+      "Calcaneus: lateral"
+    ],
+    "insertion": [
+      "Tuberosity of the 5th metatarsal",
+      "5th toe’s proximal phalanx"
+    ],
+    "actions": [
+      "Abduction of the little toe",
+      "Flexion of the little toe"
+    ]
+  }
+},
+{
+  "id": "muscle-q-020",
+  "type": "multiple-choice",
+  "title": "Flexor Digitorum Brevis",
+  "image": "/assets/Flexor_Digitorum_Brevis.png",
+  "question": "Select all correct options",
+  "options": {
+    "name": [
+      "Flexor Digitorum Brevis",
+      "Flexor Digitorum Longus",
+      "Extensor Digitorum Brevis",
+      "Quadratus Plantae"
+    ],
+    "origin": [
+      "Calcaneus",
+      "Posterior surface of the tibia",
+      "Interosseous membrane",
+      "Tarsal bones"
+    ],
+    "insertion": [
+      "Middle phalanges of the last four toes",
+      "Distal phalanges of the last four toes",
+      "Proximal phalanges of the last four toes",
+      "Base of the 1st metatarsal"
+    ],
+    "actions": [
+      "Flexion of the toes (2 to 5)",
+      "Extension of the toes",
+      "Abduction of the toes",
+      "Dorsiflexion of the ankle"
+    ]
+  },
+  "answer": {
+    "name": [
+      "Flexor Digitorum Brevis"
+    ],
+    "origin": [
+      "Calcaneus"
+    ],
+    "insertion": [
+      "Middle phalanges of the last four toes"
+    ],
+    "actions": [
+      "Flexion of the toes (2 to 5)"
     ]
   }
 }
